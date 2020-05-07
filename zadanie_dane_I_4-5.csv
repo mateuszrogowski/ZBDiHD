@@ -1,0 +1,1553 @@
+seqn,gender,age,martl_stat,education,poverty,hh_size,cholesterol,press_dias,press_sys
+2.0,male,77.0,,,5.0,1.0,215.0,56.0,98.0
+7.0,female,59.0,married,,,1.0,245.0,80.0,122.0
+11.0,male,15.0,never married,Less Than High School,1.25,5.0,132.0,52.0,110.0
+15.0,female,38.0,divorced,,4.52,2.0,199.0,68.0,112.0
+26.0,female,14.0,never married,Less Than High School,2.51,7.0,145.0,62.0,102.0
+34.0,female,38.0,never married,,0.92,7.0,195.0,80.0,116.0
+42.0,female,18.0,never married,More Than High School,,7.0,187.0,72.0,114.0
+46.0,female,85.0,widowed,,1.2,1.0,187.0,66.0,126.0
+55.0,female,61.0,separated,,3.33,4.0,285.0,60.0,110.0
+59.0,male,70.0,married,,0.97,3.0,266.0,70.0,112.0
+64.0,female,63.0,married,,5.0,2.0,195.0,82.0,154.0
+68.0,female,19.0,never married,Less Than High School,4.34,4.0,148.0,78.0,118.0
+77.0,male,25.0,living with partner,,2.99,2.0,253.0,64.0,116.0
+86.0,female,63.0,never married,,2.16,1.0,209.0,70.0,118.0
+91.0,male,17.0,never married,Less Than High School,0.63,2.0,181.0,60.0,146.0
+107.0,female,30.0,married,,,5.0,138.0,50.0,110.0
+111.0,female,14.0,never married,Less Than High School,1.34,6.0,203.0,74.0,114.0
+115.0,female,59.0,widowed,,,1.0,175.0,74.0,122.0
+120.0,female,30.0,living with partner,,4.19,2.0,254.0,70.0,112.0
+130.0,male,59.0,married,,2.58,2.0,174.0,60.0,110.0
+136.0,male,53.0,,,1.44,4.0,240.0,70.0,126.0
+141.0,female,35.0,separated,,,3.0,192.0,68.0,134.0
+145.0,male,16.0,never married,Less Than High School,5.0,6.0,157.0,64.0,106.0
+150.0,male,65.0,married,,,6.0,212.0,90.0,130.0
+164.0,male,51.0,married,,,2.0,112.0,78.0,122.0
+170.0,male,28.0,,,0.5,5.0,196.0,60.0,128.0
+177.0,female,55.0,,,5.0,2.0,230.0,70.0,124.0
+182.0,male,10.0,,Less Than High School,1.7,6.0,144.0,54.0,106.0
+186.0,male,18.0,never married,Less Than High School,1.19,7.0,162.0,58.0,104.0
+191.0,male,69.0,married,,,2.0,166.0,74.0,138.0
+195.0,female,64.0,married,,0.27,5.0,,5.397605346934027e-79,156.0
+199.0,female,38.0,,,2.81,4.0,175.0,74.0,118.0
+209.0,male,18.0,never married,Less Than High School,5.0,4.0,163.0,80.0,128.0
+214.0,female,11.0,,Less Than High School,,7.0,139.0,74.0,108.0
+220.0,female,15.0,never married,High School Diploma,2.41,6.0,170.0,74.0,110.0
+228.0,male,19.0,married,More Than High School,1.8,5.0,,64.0,130.0
+232.0,female,57.0,married,,5.0,4.0,188.0,64.0,106.0
+239.0,female,69.0,married,,5.0,2.0,199.0,78.0,150.0
+250.0,female,58.0,married,,5.0,2.0,307.0,70.0,118.0
+254.0,female,15.0,never married,Less Than High School,0.23,7.0,165.0,78.0,132.0
+264.0,female,15.0,never married,Less Than High School,,7.0,163.0,52.0,98.0
+268.0,male,30.0,never married,,1.68,4.0,223.0,60.0,126.0
+272.0,male,56.0,,,3.16,1.0,291.0,76.0,136.0
+276.0,male,15.0,never married,Less Than High School,,4.0,149.0,72.0,112.0
+287.0,female,71.0,divorced,,1.38,3.0,216.0,58.0,92.0
+296.0,male,57.0,married,,5.0,2.0,179.0,84.0,124.0
+301.0,female,24.0,married,,2.87,4.0,194.0,70.0,100.0
+306.0,male,12.0,,Less Than High School,,5.0,165.0,36.0,104.0
+330.0,male,56.0,married,,5.0,2.0,213.0,72.0,120.0
+334.0,female,58.0,married,,2.94,4.0,224.0,60.0,154.0
+338.0,male,12.0,,Less Than High School,0.74,5.0,153.0,66.0,104.0
+343.0,male,13.0,,Less Than High School,0.99,3.0,160.0,66.0,120.0
+348.0,male,13.0,,Less Than High School,4.38,6.0,176.0,68.0,102.0
+352.0,male,82.0,married,,5.0,2.0,203.0,78.0,180.0
+359.0,female,42.0,divorced,,5.0,1.0,179.0,72.0,114.0
+374.0,female,53.0,,,5.0,2.0,208.0,80.0,130.0
+384.0,male,8.0,,Less Than High School,0.4,5.0,135.0,64.0,94.0
+390.0,male,12.0,,Less Than High School,,5.0,118.0,36.0,104.0
+399.0,female,38.0,married,,0.42,6.0,221.0,78.0,104.0
+403.0,female,71.0,widowed,,3.59,1.0,177.0,68.0,122.0
+407.0,male,21.0,never married,,1.77,3.0,101.0,78.0,128.0
+411.0,female,16.0,never married,Less Than High School,,4.0,158.0,52.0,86.0
+418.0,male,9.0,,Less Than High School,0.97,3.0,107.0,76.0,120.0
+435.0,male,10.0,,Less Than High School,1.83,7.0,144.0,64.0,108.0
+452.0,male,81.0,married,,5.0,2.0,234.0,76.0,114.0
+466.0,male,48.0,married,,5.0,5.0,167.0,68.0,116.0
+476.0,female,8.0,,Less Than High School,1.02,7.0,,38.0,102.0
+482.0,male,11.0,,High School Diploma,1.73,3.0,186.0,58.0,116.0
+487.0,male,12.0,,Less Than High School,0.91,4.0,153.0,50.0,110.0
+500.0,male,11.0,,Less Than High School,0.85,7.0,149.0,56.0,102.0
+509.0,male,81.0,married,,2.22,2.0,195.0,68.0,136.0
+514.0,male,20.0,never married,,1.07,2.0,139.0,76.0,126.0
+529.0,female,14.0,never married,Less Than High School,0.53,7.0,148.0,64.0,104.0
+544.0,male,14.0,never married,Less Than High School,0.55,7.0,153.0,48.0,112.0
+551.0,female,53.0,married,,4.44,2.0,260.0,84.0,130.0
+557.0,male,16.0,never married,High School Diploma,2.05,4.0,201.0,72.0,106.0
+569.0,female,29.0,married,,3.89,3.0,178.0,74.0,114.0
+584.0,male,20.0,never married,,0.24,2.0,225.0,88.0,138.0
+589.0,female,13.0,,Less Than High School,4.69,4.0,158.0,52.0,90.0
+593.0,male,35.0,married,,1.4,5.0,176.0,92.0,132.0
+601.0,male,13.0,,High School Diploma,0.71,3.0,188.0,62.0,100.0
+609.0,male,8.0,,Less Than High School,0.48,7.0,182.0,38.0,104.0
+614.0,female,66.0,,,2.14,1.0,214.0,50.0,148.0
+618.0,female,15.0,divorced,Less Than High School,3.11,2.0,194.0,76.0,108.0
+623.0,male,11.0,,Less Than High School,,7.0,,58.0,104.0
+631.0,male,14.0,never married,Less Than High School,1.13,3.0,209.0,44.0,110.0
+641.0,male,18.0,never married,Less Than High School,1.34,6.0,173.0,60.0,114.0
+645.0,male,76.0,married,,3.02,2.0,125.0,76.0,176.0
+649.0,male,12.0,,Less Than High School,0.31,5.0,125.0,48.0,134.0
+655.0,male,69.0,,,2.56,5.0,252.0,48.0,136.0
+661.0,male,17.0,never married,Less Than High School,1.79,7.0,131.0,78.0,110.0
+667.0,male,48.0,married,,1.28,2.0,,92.0,144.0
+673.0,female,13.0,,High School Diploma,1.6,2.0,128.0,56.0,100.0
+677.0,male,32.0,,,1.05,6.0,320.0,76.0,120.0
+682.0,male,16.0,never married,Less Than High School,,4.0,159.0,70.0,120.0
+686.0,male,39.0,married,,5.0,2.0,228.0,66.0,112.0
+692.0,male,53.0,married,,5.0,4.0,173.0,78.0,128.0
+698.0,female,52.0,married,,3.42,6.0,233.0,66.0,134.0
+706.0,male,14.0,never married,Less Than High School,0.64,4.0,165.0,60.0,122.0
+710.0,male,15.0,never married,Less Than High School,1.23,4.0,246.0,58.0,142.0
+722.0,female,19.0,married,More Than High School,2.4,2.0,209.0,60.0,112.0
+734.0,female,51.0,married,,2.89,2.0,256.0,70.0,112.0
+743.0,female,11.0,,High School Diploma,4.32,3.0,,50.0,100.0
+747.0,female,24.0,never married,,2.01,3.0,190.0,66.0,112.0
+752.0,male,13.0,,Less Than High School,2.12,7.0,185.0,52.0,96.0
+767.0,female,10.0,,Less Than High School,,5.0,220.0,58.0,102.0
+777.0,male,12.0,,Less Than High School,,5.0,150.0,58.0,92.0
+781.0,female,43.0,married,,2.09,3.0,,64.0,148.0
+785.0,female,31.0,married,,2.58,4.0,261.0,56.0,108.0
+790.0,female,16.0,never married,High School Diploma,0.7,7.0,135.0,52.0,92.0
+794.0,male,19.0,never married,Less Than High School,1.2,4.0,165.0,74.0,104.0
+805.0,male,16.0,never married,Less Than High School,0.67,2.0,138.0,52.0,94.0
+819.0,female,21.0,living with partner,,,2.0,219.0,60.0,104.0
+825.0,male,19.0,living with partner,More Than High School,1.2,4.0,129.0,56.0,110.0
+832.0,male,41.0,married,,1.47,7.0,219.0,70.0,102.0
+840.0,female,54.0,married,,2.97,3.0,,70.0,116.0
+847.0,female,27.0,married,,0.6,5.0,229.0,30.0,104.0
+852.0,female,76.0,married,,1.6,2.0,292.0,100.0,160.0
+857.0,female,16.0,never married,Less Than High School,0.32,3.0,168.0,66.0,102.0
+862.0,male,53.0,married,,,3.0,265.0,80.0,136.0
+872.0,male,12.0,,High School Diploma,,5.0,194.0,76.0,108.0
+878.0,female,75.0,married,,2.22,2.0,247.0,72.0,152.0
+886.0,female,45.0,married,,0.15,5.0,260.0,72.0,114.0
+890.0,male,11.0,,Less Than High School,,7.0,206.0,46.0,110.0
+897.0,female,54.0,,,2.17,2.0,285.0,80.0,150.0
+901.0,female,14.0,never married,Less Than High School,0.88,4.0,120.0,68.0,94.0
+905.0,female,31.0,married,,1.97,6.0,169.0,78.0,126.0
+909.0,male,40.0,married,,,3.0,243.0,78.0,118.0
+913.0,male,13.0,,Less Than High School,5.397605346934027e-79,7.0,183.0,46.0,112.0
+917.0,female,82.0,separated,,2.18,5.0,134.0,74.0,106.0
+927.0,male,9.0,,Less Than High School,0.47,7.0,184.0,44.0,100.0
+931.0,female,16.0,never married,Less Than High School,,7.0,153.0,68.0,106.0
+935.0,male,9.0,,High School Diploma,3.1,3.0,,54.0,96.0
+939.0,male,19.0,never married,More Than High School,1.08,3.0,152.0,52.0,110.0
+943.0,male,78.0,widowed,,1.07,2.0,171.0,64.0,122.0
+947.0,male,8.0,,Less Than High School,,4.0,177.0,72.0,106.0
+957.0,female,18.0,never married,Less Than High School,0.09,4.0,176.0,76.0,114.0
+961.0,male,51.0,married,,5.0,2.0,214.0,84.0,112.0
+965.0,male,77.0,married,,2.69,6.0,157.0,70.0,134.0
+969.0,female,30.0,married,,2.35,4.0,271.0,82.0,110.0
+973.0,female,9.0,,Less Than High School,2.64,4.0,175.0,62.0,106.0
+977.0,male,40.0,married,,1.66,6.0,96.0,76.0,124.0
+981.0,female,79.0,widowed,,1.18,2.0,242.0,5.397605346934027e-79,166.0
+986.0,female,60.0,married,,0.94,4.0,223.0,24.0,176.0
+990.0,male,60.0,divorced,,3.05,1.0,282.0,78.0,138.0
+995.0,male,18.0,never married,More Than High School,0.79,3.0,123.0,40.0,108.0
+999.0,male,64.0,married,,,2.0,295.0,90.0,150.0
+1011.0,female,25.0,married,,1.13,3.0,248.0,58.0,114.0
+1015.0,male,10.0,,Less Than High School,1.44,4.0,160.0,60.0,108.0
+1025.0,male,53.0,married,,5.0,3.0,,78.0,132.0
+1038.0,male,70.0,,,5.0,1.0,199.0,86.0,138.0
+1042.0,male,16.0,never married,More Than High School,0.61,7.0,123.0,54.0,120.0
+1053.0,male,14.0,never married,Less Than High School,0.25,4.0,140.0,56.0,98.0
+1058.0,male,61.0,married,,0.72,3.0,215.0,60.0,100.0
+1068.0,male,33.0,married,,0.87,7.0,187.0,80.0,120.0
+1072.0,female,17.0,never married,High School Diploma,2.59,3.0,133.0,68.0,106.0
+1108.0,male,19.0,never married,More Than High School,3.53,3.0,86.0,62.0,120.0
+1112.0,female,20.0,never married,,0.21,5.0,145.0,82.0,108.0
+1117.0,male,47.0,never married,,0.73,2.0,233.0,64.0,124.0
+1126.0,male,9.0,,Less Than High School,1.47,6.0,197.0,72.0,108.0
+1130.0,female,65.0,living with partner,,2.49,2.0,223.0,68.0,130.0
+1138.0,female,19.0,never married,Less Than High School,1.5,5.0,173.0,68.0,114.0
+1142.0,male,13.0,,Less Than High School,1.8,6.0,139.0,84.0,110.0
+1149.0,female,16.0,never married,High School Diploma,0.61,5.0,,70.0,122.0
+1155.0,male,40.0,married,,,3.0,213.0,82.0,120.0
+1163.0,female,46.0,never married,,0.37,2.0,,66.0,106.0
+1170.0,female,65.0,,,2.67,3.0,180.0,76.0,166.0
+1174.0,male,12.0,,Less Than High School,1.5,5.0,123.0,70.0,114.0
+1185.0,male,14.0,never married,Less Than High School,1.76,4.0,163.0,72.0,110.0
+1189.0,male,51.0,married,,3.01,5.0,213.0,84.0,116.0
+1193.0,female,17.0,never married,More Than High School,0.55,5.0,182.0,62.0,102.0
+1206.0,male,13.0,,Less Than High School,0.48,5.0,187.0,54.0,106.0
+1210.0,female,56.0,refused,,1.8,1.0,289.0,66.0,104.0
+1220.0,female,42.0,separated,,2.35,4.0,151.0,62.0,100.0
+1224.0,female,13.0,,Less Than High School,1.21,6.0,218.0,70.0,104.0
+1228.0,female,13.0,,High School Diploma,1.67,3.0,167.0,54.0,102.0
+1237.0,female,21.0,never married,,0.96,1.0,164.0,74.0,98.0
+1252.0,male,42.0,married,,2.69,7.0,229.0,88.0,128.0
+1258.0,male,12.0,,Less Than High School,0.75,6.0,158.0,64.0,102.0
+1267.0,female,22.0,married,,1.44,7.0,175.0,68.0,102.0
+1275.0,male,17.0,never married,Less Than High School,,4.0,179.0,60.0,110.0
+1279.0,male,72.0,widowed,,0.85,1.0,223.0,62.0,122.0
+1284.0,female,36.0,never married,,3.77,1.0,184.0,72.0,106.0
+1288.0,male,20.0,,,0.97,5.0,182.0,68.0,114.0
+1296.0,female,79.0,widowed,,5.0,4.0,273.0,62.0,80.0
+1302.0,male,12.0,,Less Than High School,5.0,3.0,,80.0,100.0
+1312.0,female,22.0,,,2.17,2.0,190.0,54.0,100.0
+1328.0,male,54.0,married,,4.44,2.0,247.0,72.0,114.0
+1332.0,female,63.0,living with partner,,0.72,2.0,180.0,64.0,118.0
+1336.0,female,37.0,married,,2.35,4.0,262.0,66.0,110.0
+1351.0,female,81.0,married,,2.93,2.0,163.0,54.0,126.0
+1356.0,male,35.0,married,,0.79,6.0,238.0,88.0,126.0
+1364.0,male,53.0,separated,,,1.0,270.0,70.0,134.0
+1369.0,male,15.0,never married,Less Than High School,2.13,6.0,159.0,50.0,102.0
+1374.0,male,75.0,married,,0.94,4.0,189.0,80.0,136.0
+1378.0,male,28.0,never married,,1.14,7.0,121.0,62.0,118.0
+1382.0,male,84.0,married,,2.89,2.0,229.0,64.0,142.0
+1390.0,female,13.0,,Less Than High School,0.7,4.0,154.0,50.0,112.0
+1395.0,female,13.0,,Less Than High School,5.0,5.0,172.0,60.0,104.0
+1400.0,female,85.0,married,,1.86,1.0,225.0,68.0,132.0
+1409.0,female,37.0,,,,7.0,184.0,66.0,108.0
+1418.0,female,16.0,never married,Less Than High School,0.86,4.0,166.0,44.0,116.0
+1428.0,male,40.0,married,,5.0,2.0,247.0,90.0,122.0
+1432.0,female,15.0,never married,High School Diploma,1.0,5.0,140.0,74.0,122.0
+1438.0,male,43.0,,,4.5,3.0,257.0,86.0,118.0
+1443.0,female,44.0,married,,4.55,4.0,182.0,66.0,106.0
+1447.0,female,39.0,,,1.49,5.0,196.0,54.0,90.0
+1453.0,male,50.0,married,,4.18,3.0,282.0,90.0,134.0
+1458.0,female,24.0,never married,,0.15,5.0,178.0,62.0,120.0
+1462.0,male,27.0,married,,4.97,2.0,223.0,74.0,120.0
+1476.0,female,14.0,never married,High School Diploma,2.3,3.0,157.0,62.0,98.0
+1481.0,male,30.0,living with partner,,3.24,4.0,243.0,70.0,110.0
+1486.0,female,32.0,married,,,5.0,,56.0,88.0
+1490.0,female,13.0,,Less Than High School,0.94,4.0,171.0,62.0,98.0
+1495.0,male,41.0,married,,2.72,7.0,188.0,86.0,124.0
+1520.0,female,46.0,married,,5.0,2.0,232.0,78.0,140.0
+1525.0,female,72.0,widowed,,3.59,1.0,208.0,30.0,124.0
+1529.0,male,46.0,married,,3.11,3.0,160.0,72.0,104.0
+1535.0,female,16.0,never married,Less Than High School,5.0,3.0,132.0,66.0,116.0
+1541.0,female,61.0,,,1.7,1.0,231.0,72.0,102.0
+1545.0,female,23.0,married,,1.66,3.0,141.0,60.0,96.0
+1550.0,female,24.0,never married,,4.37,2.0,203.0,60.0,106.0
+1554.0,female,48.0,married,,,4.0,166.0,72.0,114.0
+1558.0,male,68.0,married,,,2.0,228.0,68.0,132.0
+1567.0,female,16.0,never married,Less Than High School,1.5,7.0,149.0,70.0,98.0
+1571.0,male,65.0,married,,5.0,3.0,172.0,86.0,164.0
+1578.0,male,70.0,widowed,,5.397605346934027e-79,3.0,157.0,108.0,168.0
+1582.0,female,19.0,never married,More Than High School,1.4,7.0,129.0,70.0,124.0
+1586.0,female,45.0,never married,,1.13,3.0,183.0,66.0,102.0
+1590.0,male,54.0,,,5.0,1.0,194.0,78.0,140.0
+1596.0,male,18.0,never married,Less Than High School,0.7,4.0,189.0,70.0,116.0
+1600.0,male,60.0,married,,5.0,2.0,205.0,78.0,114.0
+1609.0,female,60.0,,,0.73,1.0,,64.0,130.0
+1616.0,female,62.0,married,,5.0,2.0,192.0,114.0,174.0
+1620.0,female,46.0,married,,2.75,7.0,190.0,68.0,122.0
+1625.0,female,85.0,widowed,,,4.0,199.0,70.0,164.0
+1629.0,male,73.0,married,,0.08,7.0,202.0,66.0,142.0
+1639.0,male,34.0,married,,4.14,3.0,179.0,94.0,134.0
+1644.0,female,72.0,married,,1.91,2.0,243.0,86.0,168.0
+1648.0,male,13.0,,Less Than High School,,5.0,,24.0,106.0
+1652.0,female,57.0,widowed,,,2.0,182.0,84.0,148.0
+1661.0,female,32.0,,,0.79,7.0,199.0,56.0,114.0
+1665.0,male,14.0,never married,High School Diploma,2.05,4.0,146.0,60.0,116.0
+1670.0,male,10.0,,Less Than High School,0.97,3.0,149.0,60.0,110.0
+1675.0,male,18.0,never married,Less Than High School,3.56,2.0,134.0,66.0,98.0
+1685.0,female,25.0,,,2.54,3.0,196.0,90.0,122.0
+1690.0,male,41.0,divorced,,1.81,6.0,195.0,70.0,116.0
+1695.0,male,78.0,married,,,2.0,222.0,80.0,128.0
+1699.0,male,10.0,,Less Than High School,,7.0,114.0,54.0,96.0
+1704.0,female,35.0,married,,3.71,5.0,183.0,76.0,120.0
+1709.0,female,8.0,,High School Diploma,2.69,4.0,120.0,56.0,92.0
+1714.0,female,18.0,never married,Less Than High School,1.5,5.0,169.0,62.0,98.0
+1721.0,male,59.0,married,,5.0,2.0,210.0,60.0,110.0
+1729.0,female,64.0,never married,,1.2,1.0,246.0,58.0,136.0
+1736.0,female,48.0,married,,0.67,2.0,196.0,82.0,104.0
+1741.0,male,53.0,married,,2.97,3.0,199.0,76.0,114.0
+1747.0,male,12.0,,Less Than High School,0.88,4.0,189.0,60.0,112.0
+1756.0,female,15.0,never married,High School Diploma,3.89,5.0,188.0,44.0,116.0
+1767.0,male,19.0,never married,More Than High School,0.31,6.0,182.0,60.0,134.0
+1771.0,female,12.0,,Less Than High School,,3.0,158.0,56.0,118.0
+1777.0,male,85.0,widowed,,,1.0,183.0,46.0,218.0
+1785.0,male,40.0,married,,0.75,5.0,150.0,78.0,132.0
+1789.0,male,19.0,never married,More Than High School,,5.0,198.0,5.397605346934027e-79,140.0
+1794.0,male,30.0,married,,5.0,3.0,253.0,64.0,100.0
+1800.0,female,29.0,,,1.76,5.0,136.0,66.0,114.0
+1805.0,female,71.0,,,1.46,1.0,209.0,52.0,142.0
+1811.0,male,13.0,,Less Than High School,1.63,6.0,169.0,66.0,116.0
+1815.0,female,42.0,never married,,1.15,3.0,138.0,84.0,168.0
+1824.0,male,68.0,married,,0.78,3.0,229.0,72.0,152.0
+1828.0,female,18.0,never married,Less Than High School,,3.0,230.0,68.0,124.0
+1833.0,male,13.0,,Less Than High School,0.83,7.0,172.0,42.0,110.0
+1839.0,male,70.0,married,,1.82,4.0,229.0,76.0,130.0
+1844.0,male,8.0,,Less Than High School,0.9,7.0,182.0,32.0,102.0
+1848.0,female,27.0,never married,,,6.0,196.0,66.0,94.0
+1856.0,female,18.0,never married,High School Diploma,4.35,5.0,119.0,56.0,96.0
+1860.0,male,16.0,never married,Less Than High School,3.46,3.0,178.0,64.0,116.0
+1865.0,female,66.0,married,,,2.0,225.0,74.0,118.0
+1871.0,male,65.0,married,,,2.0,,98.0,184.0
+1875.0,male,49.0,married,,1.02,7.0,233.0,94.0,142.0
+1882.0,male,34.0,married,,1.36,2.0,204.0,80.0,124.0
+1887.0,male,32.0,married,,1.4,7.0,168.0,90.0,126.0
+1891.0,male,51.0,divorced,,,4.0,237.0,70.0,122.0
+1900.0,female,9.0,,Less Than High School,,6.0,151.0,54.0,86.0
+1905.0,male,72.0,married,,2.71,2.0,170.0,72.0,138.0
+1913.0,male,60.0,married,,1.24,2.0,182.0,82.0,138.0
+1917.0,male,41.0,never married,,1.69,6.0,288.0,52.0,122.0
+1921.0,male,66.0,married,,4.52,2.0,231.0,92.0,158.0
+1926.0,female,10.0,,Less Than High School,3.29,4.0,182.0,68.0,102.0
+1936.0,female,32.0,,,3.6,3.0,151.0,80.0,106.0
+1945.0,female,82.0,widowed,,2.18,6.0,270.0,76.0,124.0
+1949.0,male,45.0,married,,0.54,5.0,246.0,76.0,102.0
+1953.0,male,10.0,,Less Than High School,,4.0,160.0,74.0,110.0
+1961.0,female,12.0,,Less Than High School,1.14,7.0,105.0,58.0,110.0
+1966.0,male,23.0,never married,,2.13,2.0,224.0,76.0,126.0
+1972.0,male,16.0,never married,High School Diploma,0.18,2.0,129.0,60.0,116.0
+1976.0,female,14.0,never married,Less Than High School,,7.0,,74.0,110.0
+1982.0,female,21.0,never married,,2.91,2.0,,68.0,118.0
+1988.0,female,49.0,divorced,,0.72,1.0,240.0,92.0,146.0
+1992.0,female,64.0,,,,3.0,214.0,60.0,140.0
+1998.0,female,24.0,never married,,1.98,3.0,182.0,68.0,116.0
+2002.0,male,57.0,divorced,,3.17,1.0,227.0,84.0,138.0
+2008.0,male,55.0,separated,,1.74,2.0,197.0,76.0,126.0
+2012.0,male,12.0,,Less Than High School,0.61,6.0,165.0,40.0,84.0
+2016.0,female,16.0,never married,High School Diploma,,5.0,108.0,68.0,104.0
+2020.0,female,53.0,married,,5.0,2.0,183.0,68.0,112.0
+2025.0,female,51.0,married,,2.75,1.0,219.0,76.0,132.0
+2031.0,female,54.0,,,3.2,2.0,197.0,72.0,132.0
+2036.0,male,16.0,never married,Less Than High School,1.15,3.0,182.0,44.0,104.0
+2041.0,female,41.0,married,,3.52,4.0,162.0,68.0,108.0
+2057.0,male,83.0,married,,3.16,2.0,147.0,74.0,160.0
+2061.0,male,73.0,married,,0.76,4.0,174.0,80.0,168.0
+2066.0,male,33.0,married,,0.72,7.0,161.0,72.0,112.0
+2073.0,female,85.0,,,1.82,1.0,240.0,68.0,160.0
+2082.0,male,12.0,,High School Diploma,0.3,4.0,,68.0,92.0
+2086.0,female,24.0,married,,3.4,4.0,336.0,62.0,94.0
+2092.0,female,23.0,married,,1.98,4.0,132.0,54.0,94.0
+2097.0,female,64.0,divorced,,1.8,4.0,218.0,58.0,106.0
+2105.0,female,70.0,divorced,,,2.0,215.0,66.0,134.0
+2110.0,female,67.0,,,0.97,1.0,188.0,60.0,134.0
+2114.0,female,25.0,married,,,2.0,211.0,56.0,114.0
+2118.0,female,21.0,never married,,1.05,4.0,138.0,60.0,96.0
+2126.0,female,72.0,married,,2.98,2.0,207.0,58.0,130.0
+2137.0,female,81.0,widowed,,0.74,1.0,234.0,68.0,174.0
+2144.0,female,63.0,married,,3.16,2.0,235.0,70.0,152.0
+2152.0,male,16.0,never married,Less Than High School,5.397605346934027e-79,3.0,145.0,64.0,102.0
+2158.0,female,8.0,,High School Diploma,0.81,6.0,141.0,64.0,102.0
+2165.0,female,17.0,never married,Less Than High School,0.95,5.0,91.0,76.0,116.0
+2171.0,male,19.0,never married,More Than High School,,7.0,139.0,60.0,96.0
+2177.0,male,23.0,married,,1.44,3.0,213.0,60.0,114.0
+2182.0,female,43.0,divorced,,3.89,3.0,223.0,92.0,162.0
+2186.0,female,49.0,,,5.0,2.0,133.0,66.0,104.0
+2190.0,male,82.0,,,1.72,2.0,155.0,58.0,144.0
+2201.0,female,15.0,never married,Less Than High School,2.35,4.0,123.0,64.0,116.0
+2207.0,male,73.0,married,,2.67,2.0,219.0,76.0,138.0
+2217.0,male,31.0,never married,,2.06,2.0,163.0,74.0,114.0
+2222.0,male,43.0,married,,4.55,4.0,197.0,84.0,114.0
+2226.0,male,67.0,married,,4.0,2.0,236.0,76.0,120.0
+2231.0,male,58.0,married,,2.26,2.0,178.0,60.0,128.0
+2237.0,female,28.0,living with partner,,1.09,2.0,214.0,82.0,120.0
+2241.0,female,15.0,never married,High School Diploma,5.0,3.0,124.0,68.0,118.0
+2247.0,female,54.0,married,,2.26,2.0,206.0,62.0,104.0
+2251.0,female,30.0,,,1.0,5.0,223.0,70.0,110.0
+2264.0,male,22.0,never married,,1.14,7.0,189.0,52.0,106.0
+2278.0,male,32.0,married,,0.88,4.0,155.0,84.0,124.0
+2289.0,male,8.0,,Less Than High School,2.56,5.0,121.0,68.0,108.0
+2294.0,female,15.0,never married,Less Than High School,0.28,7.0,147.0,54.0,108.0
+2299.0,female,12.0,,Less Than High School,1.36,4.0,137.0,48.0,110.0
+2305.0,female,8.0,,Less Than High School,1.94,3.0,,68.0,96.0
+2309.0,male,13.0,,Less Than High School,1.88,4.0,155.0,60.0,114.0
+2313.0,female,13.0,,Less Than High School,0.88,6.0,129.0,58.0,96.0
+2318.0,female,80.0,married,,3.11,2.0,221.0,46.0,168.0
+2323.0,female,19.0,never married,Less Than High School,2.12,3.0,133.0,66.0,112.0
+2332.0,male,23.0,never married,,2.16,4.0,170.0,66.0,124.0
+2336.0,female,63.0,married,,5.0,3.0,210.0,46.0,156.0
+2342.0,male,74.0,married,,,2.0,204.0,54.0,112.0
+2346.0,male,66.0,married,,4.09,2.0,251.0,66.0,106.0
+2352.0,female,32.0,divorced,,1.58,4.0,237.0,64.0,110.0
+2358.0,female,81.0,divorced,,1.44,1.0,264.0,76.0,170.0
+2363.0,female,63.0,married,,4.09,2.0,181.0,72.0,132.0
+2376.0,male,61.0,married,,0.93,7.0,196.0,68.0,130.0
+2384.0,male,73.0,never married,,,1.0,,78.0,168.0
+2388.0,female,21.0,married,,3.39,3.0,156.0,54.0,114.0
+2407.0,male,37.0,separated,,1.63,6.0,207.0,70.0,122.0
+2411.0,male,13.0,,Less Than High School,1.34,6.0,216.0,56.0,120.0
+2420.0,male,76.0,never married,,,1.0,,72.0,138.0
+2424.0,male,8.0,,High School Diploma,1.54,5.0,,74.0,112.0
+2430.0,female,13.0,,Less Than High School,1.13,5.0,133.0,78.0,118.0
+2434.0,male,21.0,married,,0.72,7.0,226.0,40.0,108.0
+2438.0,male,16.0,never married,High School Diploma,5.0,3.0,187.0,70.0,116.0
+2443.0,female,36.0,married,,5.0,2.0,230.0,80.0,92.0
+2456.0,female,40.0,married,,2.18,5.0,227.0,60.0,106.0
+2461.0,female,19.0,married,Less Than High School,5.397605346934027e-79,3.0,214.0,70.0,114.0
+2468.0,male,18.0,never married,More Than High School,,7.0,125.0,68.0,100.0
+2472.0,male,21.0,married,,3.62,4.0,197.0,68.0,120.0
+2476.0,male,41.0,married,,0.55,5.0,222.0,70.0,88.0
+2480.0,male,79.0,married,,3.11,2.0,,54.0,142.0
+2485.0,male,46.0,,,5.0,2.0,205.0,80.0,114.0
+2491.0,male,82.0,widowed,,3.23,1.0,177.0,26.0,130.0
+2501.0,female,11.0,,Less Than High School,1.66,6.0,,50.0,94.0
+2508.0,female,33.0,never married,,3.47,2.0,185.0,86.0,116.0
+2519.0,male,13.0,,High School Diploma,1.07,7.0,135.0,40.0,94.0
+2524.0,female,54.0,widowed,,2.37,4.0,135.0,102.0,180.0
+2536.0,female,20.0,never married,,,5.0,171.0,54.0,108.0
+2546.0,female,67.0,married,,0.85,2.0,203.0,68.0,146.0
+2555.0,male,14.0,never married,Less Than High School,0.61,6.0,212.0,38.0,118.0
+2559.0,female,8.0,,Less Than High School,2.4,4.0,256.0,72.0,108.0
+2564.0,female,15.0,never married,Less Than High School,1.25,6.0,188.0,76.0,116.0
+2568.0,male,12.0,,Less Than High School,2.11,4.0,134.0,74.0,116.0
+2579.0,male,47.0,married,,3.6,3.0,204.0,82.0,114.0
+2584.0,female,12.0,,High School Diploma,5.0,4.0,173.0,48.0,106.0
+2598.0,female,65.0,widowed,,1.44,1.0,199.0,78.0,172.0
+2603.0,female,27.0,married,,4.75,2.0,,66.0,96.0
+2608.0,female,47.0,married,,,2.0,174.0,66.0,104.0
+2623.0,female,13.0,,Less Than High School,1.63,5.0,154.0,66.0,88.0
+2632.0,female,11.0,,Less Than High School,2.51,5.0,198.0,76.0,100.0
+2636.0,male,47.0,divorced,,0.36,2.0,201.0,92.0,120.0
+2642.0,male,14.0,never married,Less Than High School,0.62,7.0,,72.0,110.0
+2647.0,male,13.0,,Less Than High School,2.06,7.0,148.0,80.0,114.0
+2653.0,female,56.0,married,,5.0,2.0,179.0,68.0,116.0
+2667.0,female,16.0,never married,Less Than High School,2.47,3.0,155.0,58.0,110.0
+2672.0,male,29.0,never married,,5.0,7.0,158.0,80.0,110.0
+2677.0,female,12.0,,Less Than High School,,6.0,163.0,72.0,104.0
+2685.0,male,37.0,never married,,5.0,1.0,193.0,66.0,128.0
+2695.0,male,16.0,never married,Less Than High School,1.0,5.0,,68.0,118.0
+2700.0,female,75.0,widowed,,2.43,1.0,298.0,74.0,148.0
+2710.0,male,19.0,never married,High School Diploma,1.55,3.0,169.0,70.0,112.0
+2714.0,male,65.0,married,,1.07,7.0,,102.0,154.0
+2718.0,male,49.0,,,2.59,3.0,226.0,76.0,124.0
+2723.0,male,66.0,widowed,,2.18,5.0,234.0,86.0,130.0
+2735.0,male,18.0,,More Than High School,0.95,5.0,142.0,60.0,110.0
+2753.0,male,31.0,never married,,1.21,2.0,152.0,80.0,110.0
+2758.0,male,74.0,married,,1.63,2.0,,48.0,104.0
+2762.0,female,51.0,,,0.69,3.0,292.0,90.0,144.0
+2766.0,female,32.0,married,,3.29,4.0,184.0,70.0,118.0
+2790.0,female,50.0,living with partner,,0.79,5.0,157.0,60.0,120.0
+2802.0,male,16.0,never married,Less Than High School,3.59,6.0,,58.0,138.0
+2808.0,female,17.0,never married,High School Diploma,0.18,4.0,177.0,70.0,104.0
+2814.0,female,23.0,never married,,5.0,5.0,187.0,62.0,108.0
+2822.0,male,56.0,married,,3.16,2.0,226.0,78.0,134.0
+2839.0,female,18.0,never married,More Than High School,0.22,7.0,164.0,58.0,112.0
+2843.0,female,30.0,married,,5.0,2.0,220.0,68.0,110.0
+2847.0,female,16.0,never married,Less Than High School,3.96,3.0,112.0,62.0,98.0
+2859.0,female,28.0,never married,,4.86,3.0,225.0,58.0,118.0
+2867.0,male,8.0,,High School Diploma,2.69,4.0,155.0,40.0,106.0
+2872.0,male,16.0,never married,More Than High School,3.62,2.0,115.0,56.0,104.0
+2888.0,female,15.0,never married,Less Than High School,5.0,3.0,229.0,70.0,108.0
+2893.0,male,27.0,,,3.64,1.0,109.0,76.0,118.0
+2898.0,female,32.0,separated,,0.86,4.0,182.0,78.0,114.0
+2904.0,male,28.0,married,,5.0,2.0,140.0,74.0,104.0
+2924.0,female,57.0,married,,,2.0,289.0,62.0,124.0
+2928.0,female,31.0,married,,5.0,2.0,263.0,48.0,104.0
+2932.0,female,70.0,married,,,2.0,223.0,82.0,166.0
+2936.0,male,66.0,married,,3.11,2.0,257.0,56.0,144.0
+2940.0,female,65.0,married,,0.89,2.0,164.0,60.0,138.0
+2945.0,female,16.0,never married,Less Than High School,0.75,4.0,194.0,82.0,134.0
+2949.0,male,40.0,never married,,,2.0,211.0,74.0,126.0
+2953.0,male,34.0,married,,2.23,4.0,174.0,66.0,132.0
+2957.0,male,16.0,never married,Less Than High School,1.94,3.0,137.0,50.0,112.0
+2962.0,male,73.0,married,,0.92,3.0,226.0,72.0,120.0
+2970.0,female,16.0,never married,Less Than High School,0.28,7.0,164.0,40.0,92.0
+2975.0,male,11.0,,Less Than High School,2.16,3.0,141.0,48.0,106.0
+2979.0,male,81.0,married,,1.81,2.0,161.0,98.0,204.0
+2983.0,female,12.0,,High School Diploma,0.29,7.0,,78.0,108.0
+2988.0,female,30.0,,,4.25,1.0,211.0,60.0,126.0
+2992.0,male,53.0,married,,5.0,2.0,155.0,72.0,106.0
+3003.0,female,8.0,,Less Than High School,0.35,3.0,125.0,48.0,92.0
+3007.0,female,9.0,,Less Than High School,0.7,7.0,161.0,66.0,104.0
+3020.0,male,27.0,married,,3.39,3.0,261.0,58.0,124.0
+3024.0,female,25.0,never married,,,7.0,163.0,72.0,112.0
+3029.0,male,31.0,never married,,1.2,1.0,242.0,70.0,122.0
+3033.0,female,84.0,,,2.43,1.0,190.0,74.0,130.0
+3037.0,male,56.0,married,,5.0,2.0,182.0,68.0,130.0
+3045.0,female,73.0,widowed,,0.75,1.0,265.0,78.0,142.0
+3049.0,male,17.0,never married,Less Than High School,5.0,5.0,197.0,70.0,122.0
+3054.0,female,68.0,,,1.85,2.0,239.0,66.0,118.0
+3059.0,male,66.0,,,2.11,1.0,241.0,60.0,104.0
+3064.0,male,19.0,never married,More Than High School,1.2,4.0,181.0,78.0,122.0
+3073.0,female,18.0,never married,More Than High School,0.32,3.0,169.0,70.0,116.0
+3078.0,female,11.0,,Less Than High School,0.54,5.0,163.0,50.0,90.0
+3084.0,male,11.0,,Less Than High School,5.0,4.0,158.0,60.0,94.0
+3097.0,female,24.0,never married,,0.89,4.0,155.0,74.0,116.0
+3105.0,female,24.0,never married,,0.03,4.0,192.0,70.0,124.0
+3109.0,female,26.0,married,,2.83,3.0,174.0,52.0,106.0
+3119.0,male,17.0,never married,More Than High School,0.04,6.0,173.0,44.0,106.0
+3123.0,male,18.0,never married,More Than High School,1.34,6.0,125.0,70.0,118.0
+3136.0,male,17.0,never married,Less Than High School,,5.0,200.0,46.0,96.0
+3141.0,male,63.0,divorced,,1.38,1.0,182.0,86.0,178.0
+3150.0,male,17.0,never married,High School Diploma,2.54,3.0,157.0,80.0,126.0
+3156.0,female,18.0,never married,More Than High School,0.11,7.0,154.0,68.0,116.0
+3164.0,male,31.0,never married,,,2.0,72.0,70.0,96.0
+3180.0,male,39.0,married,,1.0,5.0,196.0,72.0,112.0
+3184.0,male,55.0,,,5.0,2.0,238.0,80.0,110.0
+3189.0,male,12.0,,Less Than High School,5.397605346934027e-79,3.0,161.0,66.0,112.0
+3193.0,female,65.0,married,,2.22,2.0,254.0,64.0,146.0
+3197.0,female,46.0,married,,5.0,2.0,229.0,86.0,138.0
+3201.0,male,13.0,,High School Diploma,,4.0,179.0,62.0,110.0
+3205.0,female,69.0,married,,5.0,2.0,226.0,76.0,156.0
+3218.0,female,17.0,never married,More Than High School,3.71,3.0,199.0,60.0,100.0
+3223.0,female,58.0,married,,4.86,3.0,,84.0,160.0
+3229.0,female,36.0,separated,,0.97,3.0,190.0,74.0,130.0
+3233.0,female,40.0,never married,,0.77,5.0,241.0,100.0,152.0
+3242.0,female,14.0,never married,High School Diploma,2.77,7.0,172.0,82.0,112.0
+3246.0,male,74.0,divorced,,2.28,1.0,188.0,68.0,134.0
+3252.0,male,63.0,married,,3.84,5.0,276.0,60.0,104.0
+3256.0,female,65.0,married,,,2.0,,94.0,142.0
+3262.0,female,42.0,married,,5.0,3.0,153.0,56.0,100.0
+3266.0,male,78.0,married,,1.16,2.0,163.0,72.0,134.0
+3273.0,female,56.0,married,,4.67,2.0,272.0,92.0,124.0
+3278.0,male,73.0,married,,1.52,3.0,163.0,66.0,126.0
+3285.0,female,19.0,never married,More Than High School,4.28,4.0,200.0,70.0,132.0
+3289.0,female,34.0,separated,,0.53,4.0,164.0,60.0,104.0
+3293.0,female,60.0,never married,,1.32,2.0,193.0,86.0,166.0
+3298.0,male,46.0,never married,,1.88,2.0,182.0,78.0,142.0
+3315.0,female,13.0,,Less Than High School,0.15,5.0,232.0,76.0,110.0
+3326.0,female,41.0,married,,1.2,5.0,126.0,68.0,120.0
+3330.0,female,32.0,married,,1.75,6.0,329.0,40.0,108.0
+3335.0,female,8.0,,,0.19,4.0,199.0,12.0,112.0
+3345.0,female,81.0,widowed,,5.397605346934027e-79,1.0,181.0,76.0,124.0
+3351.0,male,11.0,,Less Than High School,0.72,5.0,150.0,62.0,98.0
+3356.0,male,70.0,married,,0.89,2.0,219.0,74.0,124.0
+3360.0,female,35.0,married,,,5.0,201.0,64.0,114.0
+3367.0,female,77.0,widowed,,1.44,1.0,182.0,76.0,150.0
+3381.0,female,28.0,married,,5.0,2.0,265.0,56.0,124.0
+3385.0,male,33.0,divorced,,,2.0,166.0,76.0,108.0
+3390.0,male,12.0,,Less Than High School,2.35,5.0,120.0,50.0,118.0
+3404.0,female,35.0,married,,5.0,4.0,170.0,48.0,92.0
+3409.0,male,28.0,married,,1.17,7.0,233.0,68.0,104.0
+3414.0,female,9.0,,High School Diploma,1.58,2.0,139.0,64.0,100.0
+3429.0,male,43.0,married,,3.97,5.0,181.0,74.0,112.0
+3433.0,female,41.0,married,,4.55,4.0,156.0,86.0,116.0
+3437.0,female,25.0,never married,,2.04,3.0,203.0,54.0,96.0
+3452.0,female,19.0,,More Than High School,0.05,3.0,141.0,68.0,110.0
+3458.0,female,21.0,married,,2.13,6.0,208.0,66.0,104.0
+3462.0,female,65.0,widowed,,2.43,1.0,239.0,68.0,156.0
+3466.0,male,70.0,living with partner,,1.15,2.0,294.0,66.0,104.0
+3470.0,female,20.0,never married,,0.9,4.0,171.0,70.0,104.0
+3474.0,male,18.0,never married,More Than High School,0.28,7.0,164.0,58.0,88.0
+3478.0,male,51.0,married,,5.0,4.0,247.0,88.0,130.0
+3482.0,female,69.0,widowed,,1.27,2.0,188.0,70.0,110.0
+3490.0,male,15.0,never married,Less Than High School,,2.0,152.0,58.0,126.0
+3500.0,male,14.0,never married,Less Than High School,0.88,3.0,161.0,46.0,106.0
+3504.0,female,79.0,widowed,,0.72,1.0,168.0,62.0,152.0
+3508.0,male,14.0,never married,Less Than High School,0.92,5.0,168.0,78.0,108.0
+3513.0,female,40.0,married,,1.4,5.0,247.0,72.0,104.0
+3517.0,female,14.0,never married,High School Diploma,0.28,7.0,163.0,66.0,110.0
+3522.0,male,18.0,never married,More Than High School,2.46,4.0,104.0,60.0,122.0
+3535.0,male,60.0,married,,,6.0,239.0,62.0,126.0
+3545.0,female,66.0,widowed,,2.99,1.0,257.0,78.0,144.0
+3554.0,male,26.0,,,3.03,1.0,173.0,66.0,114.0
+3562.0,female,14.0,never married,Less Than High School,4.81,4.0,,72.0,114.0
+3567.0,male,21.0,never married,,0.12,3.0,204.0,64.0,122.0
+3572.0,male,26.0,married,,0.18,4.0,228.0,80.0,118.0
+3582.0,female,11.0,,High School Diploma,1.44,4.0,162.0,50.0,102.0
+3589.0,female,12.0,,Less Than High School,1.6,3.0,131.0,58.0,96.0
+3594.0,female,16.0,never married,Less Than High School,0.35,4.0,164.0,52.0,116.0
+3600.0,male,22.0,,,1.2,2.0,121.0,60.0,110.0
+3606.0,female,43.0,married,,5.0,3.0,180.0,66.0,110.0
+3615.0,male,14.0,never married,High School Diploma,1.76,4.0,135.0,66.0,104.0
+3619.0,female,23.0,living with partner,,0.45,4.0,193.0,68.0,102.0
+3623.0,female,8.0,,High School Diploma,2.09,3.0,158.0,60.0,96.0
+3628.0,female,65.0,married,,,2.0,250.0,68.0,130.0
+3632.0,male,15.0,never married,Less Than High School,,2.0,133.0,74.0,102.0
+3641.0,male,12.0,,Less Than High School,1.13,3.0,145.0,70.0,110.0
+3645.0,female,28.0,,,1.77,4.0,164.0,68.0,108.0
+3655.0,female,47.0,refused,,,2.0,194.0,68.0,114.0
+3678.0,female,69.0,,,1.63,2.0,196.0,68.0,154.0
+3682.0,female,17.0,never married,High School Diploma,5.0,5.0,171.0,60.0,100.0
+3687.0,female,57.0,never married,,0.07,1.0,208.0,66.0,184.0
+3691.0,female,19.0,never married,More Than High School,2.51,5.0,140.0,76.0,118.0
+3697.0,male,21.0,never married,,4.97,2.0,198.0,72.0,130.0
+3703.0,male,13.0,,Less Than High School,1.49,5.0,154.0,60.0,118.0
+3712.0,female,73.0,widowed,,,7.0,,5.397605346934027e-79,162.0
+3717.0,female,16.0,never married,Less Than High School,,3.0,204.0,66.0,108.0
+3721.0,male,26.0,never married,,2.93,4.0,195.0,78.0,120.0
+3729.0,male,43.0,married,,5.0,4.0,262.0,78.0,136.0
+3734.0,male,11.0,,Less Than High School,,4.0,148.0,50.0,122.0
+3748.0,female,57.0,married,,5.0,2.0,234.0,76.0,130.0
+3753.0,female,84.0,widowed,,3.56,2.0,236.0,82.0,160.0
+3757.0,male,76.0,married,,5.0,2.0,200.0,74.0,130.0
+3762.0,female,18.0,never married,Less Than High School,1.36,2.0,137.0,56.0,104.0
+3767.0,male,13.0,,Less Than High School,,7.0,,52.0,108.0
+3771.0,female,17.0,never married,Less Than High School,0.83,6.0,193.0,66.0,114.0
+3776.0,female,12.0,,Less Than High School,1.87,3.0,173.0,48.0,116.0
+3785.0,male,56.0,separated,,,3.0,177.0,70.0,122.0
+3789.0,female,12.0,,Less Than High School,1.5,7.0,144.0,62.0,102.0
+3793.0,female,25.0,,,0.37,5.0,197.0,66.0,106.0
+3799.0,male,70.0,married,,3.6,3.0,285.0,76.0,130.0
+3804.0,female,65.0,married,,5.0,2.0,255.0,80.0,130.0
+3809.0,male,83.0,divorced,,1.32,2.0,,5.397605346934027e-79,130.0
+3813.0,female,10.0,,Less Than High School,1.34,6.0,198.0,58.0,116.0
+3826.0,female,16.0,never married,High School Diploma,3.01,5.0,192.0,66.0,108.0
+3830.0,female,17.0,never married,Less Than High School,,6.0,158.0,62.0,100.0
+3834.0,female,13.0,,Less Than High School,0.7,5.0,121.0,60.0,106.0
+3839.0,female,25.0,never married,,,3.0,,58.0,92.0
+3843.0,male,18.0,never married,Less Than High School,0.72,1.0,,76.0,114.0
+3847.0,female,10.0,,High School Diploma,2.51,5.0,130.0,44.0,102.0
+3852.0,male,47.0,,,4.32,3.0,172.0,70.0,104.0
+3861.0,female,14.0,never married,Less Than High School,5.0,3.0,129.0,80.0,100.0
+3865.0,female,17.0,never married,Less Than High School,0.88,4.0,115.0,56.0,126.0
+3876.0,male,13.0,,Less Than High School,,5.0,127.0,60.0,118.0
+3880.0,female,65.0,,,4.13,1.0,396.0,80.0,114.0
+3886.0,male,66.0,married,,4.0,2.0,191.0,5.397605346934027e-79,142.0
+3891.0,female,14.0,never married,Less Than High School,3.81,4.0,154.0,74.0,114.0
+3901.0,female,17.0,never married,Less Than High School,2.2,5.0,136.0,68.0,102.0
+3911.0,male,32.0,married,,1.82,3.0,234.0,60.0,106.0
+3917.0,female,27.0,married,,3.67,3.0,255.0,48.0,96.0
+3921.0,male,48.0,divorced,,5.0,3.0,224.0,82.0,114.0
+3925.0,female,64.0,separated,,0.96,5.0,167.0,56.0,122.0
+3930.0,female,70.0,divorced,,2.69,3.0,176.0,80.0,180.0
+3938.0,male,10.0,,Less Than High School,0.58,7.0,140.0,60.0,102.0
+3943.0,male,22.0,never married,,,4.0,201.0,78.0,120.0
+3952.0,female,17.0,never married,Less Than High School,2.1,4.0,187.0,78.0,136.0
+3956.0,female,59.0,never married,,4.43,1.0,183.0,70.0,124.0
+3960.0,male,62.0,married,,0.44,4.0,269.0,56.0,110.0
+3965.0,male,42.0,married,,3.11,4.0,184.0,74.0,130.0
+3984.0,male,41.0,married,,4.32,3.0,248.0,68.0,94.0
+3992.0,male,30.0,never married,,3.84,5.0,219.0,60.0,130.0
+3996.0,female,23.0,married,,,4.0,135.0,48.0,108.0
+4001.0,female,12.0,,High School Diploma,,7.0,171.0,58.0,116.0
+4006.0,male,58.0,,,3.16,1.0,,64.0,186.0
+4011.0,male,56.0,married,,3.11,2.0,192.0,86.0,132.0
+4016.0,female,61.0,,,0.73,1.0,192.0,68.0,130.0
+4021.0,female,16.0,never married,High School Diploma,,6.0,208.0,52.0,114.0
+4031.0,female,15.0,never married,Less Than High School,1.47,6.0,167.0,70.0,128.0
+4043.0,female,11.0,,High School Diploma,4.34,4.0,183.0,48.0,88.0
+4048.0,female,39.0,married,,,6.0,201.0,72.0,116.0
+4052.0,female,15.0,never married,Less Than High School,0.83,6.0,154.0,80.0,108.0
+4056.0,male,16.0,never married,Less Than High School,,4.0,154.0,60.0,102.0
+4060.0,female,16.0,never married,Less Than High School,3.59,4.0,115.0,58.0,124.0
+4065.0,female,15.0,never married,Less Than High School,1.85,6.0,136.0,5.397605346934027e-79,98.0
+4070.0,male,29.0,,,4.24,3.0,,74.0,124.0
+4075.0,female,52.0,widowed,,0.95,3.0,230.0,84.0,112.0
+4079.0,male,40.0,married,,2.84,5.0,195.0,76.0,110.0
+4084.0,female,17.0,never married,Less Than High School,0.78,7.0,141.0,68.0,114.0
+4088.0,male,49.0,divorced,,3.47,4.0,155.0,84.0,132.0
+4092.0,male,46.0,divorced,,3.16,3.0,238.0,76.0,116.0
+4096.0,male,81.0,married,,5.0,2.0,196.0,78.0,116.0
+4101.0,male,67.0,married,,2.93,2.0,130.0,72.0,122.0
+4109.0,male,19.0,never married,Less Than High School,0.69,2.0,144.0,74.0,116.0
+4114.0,male,18.0,never married,Less Than High School,,7.0,134.0,46.0,106.0
+4118.0,female,9.0,,Less Than High School,0.51,5.0,186.0,60.0,120.0
+4122.0,female,51.0,married,,,2.0,239.0,98.0,148.0
+4131.0,male,17.0,never married,Less Than High School,,5.0,148.0,74.0,110.0
+4135.0,male,12.0,,Less Than High School,1.17,4.0,139.0,62.0,106.0
+4145.0,female,28.0,,,2.17,2.0,222.0,78.0,114.0
+4152.0,female,12.0,,Less Than High School,1.41,6.0,148.0,64.0,98.0
+4162.0,female,27.0,never married,,4.79,1.0,220.0,68.0,112.0
+4168.0,male,37.0,,,0.81,1.0,178.0,84.0,128.0
+4176.0,male,14.0,never married,High School Diploma,0.53,3.0,164.0,58.0,106.0
+4180.0,female,16.0,never married,Less Than High School,1.34,6.0,163.0,72.0,104.0
+4188.0,female,10.0,,High School Diploma,2.81,4.0,189.0,5.397605346934027e-79,118.0
+4192.0,male,85.0,widowed,,1.68,1.0,167.0,90.0,150.0
+4204.0,female,12.0,,Less Than High School,,4.0,161.0,62.0,102.0
+4209.0,male,19.0,never married,More Than High School,0.89,5.0,204.0,56.0,102.0
+4218.0,male,29.0,,,2.54,3.0,194.0,68.0,112.0
+4224.0,male,12.0,,Less Than High School,,4.0,148.0,72.0,120.0
+4233.0,female,12.0,,Less Than High School,,6.0,179.0,66.0,108.0
+4237.0,female,8.0,,Less Than High School,0.35,7.0,186.0,56.0,82.0
+4242.0,female,9.0,,Less Than High School,2.4,4.0,,38.0,80.0
+4247.0,female,13.0,,Less Than High School,3.94,6.0,200.0,74.0,112.0
+4252.0,male,19.0,never married,More Than High School,3.53,5.0,172.0,58.0,118.0
+4256.0,male,12.0,,High School Diploma,,6.0,138.0,64.0,104.0
+4260.0,female,61.0,married,,2.22,5.0,247.0,68.0,126.0
+4269.0,male,33.0,,,0.79,7.0,109.0,70.0,100.0
+4273.0,female,51.0,,,1.44,4.0,147.0,80.0,144.0
+4277.0,male,64.0,married,,3.07,2.0,205.0,74.0,112.0
+4282.0,male,38.0,married,,5.0,2.0,178.0,70.0,120.0
+4288.0,male,15.0,never married,Less Than High School,0.7,7.0,174.0,60.0,114.0
+4292.0,male,42.0,married,,5.0,5.0,182.0,72.0,118.0
+4296.0,female,21.0,never married,,,5.0,173.0,68.0,100.0
+4300.0,male,44.0,married,,5.397605346934027e-79,4.0,181.0,98.0,140.0
+4315.0,male,12.0,,Less Than High School,1.07,7.0,138.0,80.0,108.0
+4323.0,male,25.0,married,,,5.0,159.0,62.0,120.0
+4332.0,male,70.0,married,,3.38,2.0,157.0,66.0,158.0
+4336.0,female,67.0,,,3.03,1.0,278.0,56.0,174.0
+4341.0,male,39.0,,,4.64,4.0,194.0,64.0,122.0
+4346.0,male,17.0,never married,Less Than High School,4.19,5.0,180.0,62.0,116.0
+4350.0,female,27.0,never married,,0.84,3.0,197.0,86.0,120.0
+4354.0,female,41.0,married,,4.34,4.0,210.0,86.0,132.0
+4372.0,female,19.0,never married,More Than High School,3.33,6.0,305.0,52.0,108.0
+4376.0,male,16.0,never married,Less Than High School,1.4,7.0,216.0,72.0,118.0
+4382.0,female,40.0,married,,0.94,3.0,180.0,52.0,104.0
+4390.0,male,85.0,married,,3.11,2.0,195.0,66.0,156.0
+4399.0,male,75.0,married,,2.67,4.0,185.0,62.0,150.0
+4408.0,female,37.0,married,,3.18,5.0,199.0,82.0,104.0
+4414.0,male,12.0,,Less Than High School,1.01,6.0,151.0,68.0,122.0
+4419.0,male,52.0,married,,1.11,2.0,234.0,78.0,118.0
+4424.0,male,10.0,,Less Than High School,0.92,6.0,188.0,56.0,110.0
+4429.0,male,35.0,married,,4.42,3.0,262.0,68.0,102.0
+4434.0,female,36.0,separated,,0.57,3.0,190.0,66.0,98.0
+4439.0,male,45.0,married,,4.64,4.0,226.0,76.0,102.0
+4444.0,male,75.0,divorced,,0.96,1.0,226.0,70.0,132.0
+4449.0,male,14.0,never married,Less Than High School,0.96,6.0,146.0,74.0,108.0
+4453.0,male,22.0,never married,,1.8,4.0,131.0,60.0,102.0
+4462.0,female,18.0,never married,High School Diploma,1.3,3.0,145.0,56.0,110.0
+4467.0,male,33.0,living with partner,,,4.0,116.0,82.0,120.0
+4472.0,male,73.0,married,,0.59,4.0,153.0,60.0,148.0
+4477.0,female,76.0,,,0.73,1.0,,70.0,140.0
+4482.0,female,23.0,never married,,0.06,7.0,149.0,58.0,96.0
+4486.0,male,17.0,never married,High School Diploma,1.2,5.0,112.0,64.0,114.0
+4491.0,female,28.0,separated,,0.31,2.0,211.0,74.0,126.0
+4506.0,female,11.0,,Less Than High School,,5.0,,64.0,116.0
+4512.0,female,18.0,never married,More Than High School,3.76,7.0,178.0,70.0,104.0
+4518.0,male,16.0,never married,Less Than High School,0.57,3.0,190.0,70.0,130.0
+4522.0,female,10.0,,Less Than High School,3.59,5.0,206.0,66.0,110.0
+4526.0,female,40.0,never married,,1.98,4.0,156.0,84.0,152.0
+4531.0,male,85.0,married,,3.53,3.0,174.0,5.397605346934027e-79,144.0
+4537.0,male,30.0,married,,5.0,2.0,185.0,84.0,120.0
+4544.0,male,10.0,,Less Than High School,2.4,2.0,153.0,68.0,104.0
+4548.0,male,46.0,married,,4.64,6.0,,90.0,138.0
+4553.0,female,9.0,,Less Than High School,1.97,6.0,,50.0,104.0
+4558.0,male,29.0,married,,3.39,3.0,146.0,74.0,122.0
+4563.0,male,70.0,married,,3.25,2.0,242.0,64.0,112.0
+4567.0,male,47.0,divorced,,0.51,5.0,209.0,86.0,124.0
+4571.0,female,61.0,divorced,,,1.0,314.0,110.0,198.0
+4576.0,male,13.0,,Less Than High School,2.12,4.0,164.0,54.0,112.0
+4580.0,female,12.0,,Less Than High School,1.12,6.0,185.0,68.0,100.0
+4590.0,female,16.0,never married,Less Than High School,2.83,3.0,116.0,66.0,100.0
+4595.0,male,12.0,,Less Than High School,0.58,7.0,165.0,70.0,114.0
+4601.0,male,48.0,separated,,0.32,4.0,346.0,92.0,134.0
+4610.0,female,16.0,never married,Less Than High School,5.397605346934027e-79,4.0,182.0,72.0,118.0
+4614.0,female,73.0,widowed,,,7.0,259.0,64.0,134.0
+4618.0,male,20.0,never married,,0.96,1.0,210.0,60.0,114.0
+4627.0,female,17.0,never married,High School Diploma,3.07,5.0,153.0,54.0,114.0
+4632.0,male,17.0,never married,Less Than High School,0.23,5.0,146.0,70.0,128.0
+4640.0,female,11.0,,Less Than High School,,7.0,,66.0,106.0
+4644.0,female,64.0,married,,1.24,5.0,239.0,90.0,126.0
+4649.0,female,8.0,,Less Than High School,0.05,5.0,135.0,58.0,94.0
+4657.0,female,25.0,married,,2.93,4.0,152.0,54.0,98.0
+4666.0,male,67.0,married,,,4.0,226.0,88.0,172.0
+4674.0,female,15.0,never married,Less Than High School,4.81,4.0,,48.0,110.0
+4679.0,male,54.0,married,,2.88,3.0,219.0,84.0,122.0
+4683.0,female,49.0,married,,4.69,4.0,216.0,84.0,106.0
+4687.0,male,13.0,,Less Than High School,2.87,5.0,166.0,58.0,120.0
+4692.0,female,35.0,married,,1.8,4.0,172.0,62.0,104.0
+4696.0,female,13.0,,Less Than High School,0.93,7.0,,72.0,96.0
+4701.0,male,16.0,never married,Less Than High School,0.72,6.0,165.0,42.0,106.0
+4706.0,female,71.0,never married,,1.49,1.0,247.0,98.0,160.0
+4710.0,female,15.0,never married,Less Than High School,5.0,4.0,243.0,86.0,108.0
+4714.0,female,45.0,divorced,,2.4,2.0,204.0,76.0,106.0
+4718.0,female,16.0,,More Than High School,,3.0,134.0,52.0,116.0
+4722.0,male,35.0,married,,,7.0,220.0,70.0,120.0
+4727.0,female,68.0,married,,2.76,2.0,185.0,88.0,170.0
+4732.0,female,70.0,married,,2.22,2.0,311.0,82.0,126.0
+4736.0,male,55.0,,,5.0,2.0,180.0,70.0,124.0
+4741.0,female,14.0,never married,High School Diploma,,4.0,175.0,62.0,108.0
+4750.0,male,18.0,never married,More Than High School,1.97,6.0,152.0,74.0,132.0
+4754.0,male,53.0,married,,5.0,2.0,246.0,90.0,142.0
+4758.0,female,73.0,widowed,,5.0,3.0,230.0,70.0,154.0
+4766.0,female,78.0,widowed,,0.98,1.0,,64.0,138.0
+4772.0,male,44.0,married,,1.14,4.0,214.0,58.0,100.0
+4776.0,male,42.0,married,,1.83,7.0,271.0,76.0,122.0
+4784.0,female,31.0,never married,,1.54,5.0,239.0,66.0,110.0
+4788.0,female,15.0,never married,Less Than High School,1.2,5.0,,78.0,116.0
+4792.0,female,67.0,married,,,2.0,240.0,82.0,122.0
+4796.0,female,28.0,separated,,1.2,3.0,159.0,50.0,114.0
+4800.0,male,67.0,married,,1.55,3.0,192.0,64.0,138.0
+4810.0,male,49.0,married,,5.0,4.0,200.0,92.0,154.0
+4814.0,male,9.0,,Less Than High School,0.23,5.0,168.0,58.0,112.0
+4821.0,female,16.0,never married,Less Than High School,1.09,4.0,,52.0,102.0
+4827.0,female,62.0,married,,1.78,2.0,223.0,58.0,106.0
+4831.0,male,58.0,,,0.82,1.0,167.0,84.0,132.0
+4844.0,female,44.0,living with partner,,5.0,5.0,152.0,50.0,120.0
+4853.0,female,62.0,,,5.0,1.0,225.0,82.0,148.0
+4861.0,female,27.0,married,,4.04,4.0,228.0,64.0,106.0
+4865.0,male,18.0,never married,More Than High School,2.67,7.0,195.0,90.0,116.0
+4869.0,female,63.0,married,,,3.0,146.0,64.0,174.0
+4873.0,male,13.0,,High School Diploma,,5.0,168.0,62.0,114.0
+4877.0,male,81.0,married,,1.42,2.0,235.0,68.0,162.0
+4881.0,male,8.0,,Less Than High School,2.64,4.0,146.0,62.0,116.0
+4885.0,female,14.0,never married,Less Than High School,1.88,4.0,128.0,82.0,120.0
+4901.0,male,39.0,married,,2.35,2.0,278.0,90.0,124.0
+4905.0,female,63.0,widowed,,4.25,4.0,247.0,58.0,114.0
+4913.0,female,10.0,,Less Than High School,1.6,5.0,190.0,48.0,90.0
+4917.0,male,24.0,married,,0.67,4.0,200.0,60.0,130.0
+4921.0,male,37.0,married,,2.26,5.0,205.0,96.0,122.0
+4931.0,male,63.0,married,,3.96,3.0,221.0,80.0,120.0
+4935.0,female,52.0,,,1.0,4.0,220.0,76.0,128.0
+4940.0,male,67.0,married,,3.73,2.0,222.0,84.0,172.0
+4944.0,male,9.0,,Less Than High School,,5.0,143.0,70.0,118.0
+4955.0,male,32.0,married,,1.97,6.0,214.0,78.0,130.0
+4959.0,male,18.0,never married,Less Than High School,1.2,5.0,159.0,62.0,116.0
+4963.0,female,23.0,married,,1.17,7.0,139.0,82.0,108.0
+4982.0,female,65.0,divorced,,1.44,1.0,174.0,50.0,148.0
+4986.0,female,42.0,married,,5.0,3.0,195.0,58.0,94.0
+4991.0,female,45.0,separated,,,3.0,240.0,66.0,98.0
+4996.0,male,36.0,married,,1.27,5.0,158.0,86.0,130.0
+5001.0,female,9.0,,Less Than High School,3.59,5.0,158.0,62.0,120.0
+5015.0,male,9.0,,Less Than High School,1.79,7.0,,64.0,106.0
+5020.0,male,22.0,divorced,,1.17,7.0,212.0,46.0,112.0
+5024.0,female,45.0,separated,,5.0,2.0,,84.0,110.0
+5028.0,male,14.0,never married,Less Than High School,0.42,7.0,131.0,56.0,118.0
+5038.0,male,11.0,,Less Than High School,0.55,5.0,150.0,76.0,112.0
+5050.0,female,53.0,,,2.51,7.0,278.0,64.0,116.0
+5054.0,female,18.0,never married,Less Than High School,2.12,7.0,174.0,72.0,108.0
+5059.0,male,15.0,never married,Less Than High School,,7.0,,52.0,128.0
+5064.0,male,63.0,married,,,4.0,205.0,86.0,126.0
+5072.0,male,27.0,married,,,4.0,,40.0,122.0
+5076.0,female,55.0,separated,,1.31,3.0,201.0,90.0,178.0
+5086.0,female,85.0,widowed,,1.03,7.0,284.0,5.397605346934027e-79,202.0
+5092.0,male,56.0,married,,5.0,3.0,222.0,72.0,116.0
+5096.0,female,34.0,divorced,,2.2,5.0,149.0,76.0,126.0
+5104.0,female,45.0,never married,,1.1,5.0,178.0,68.0,142.0
+5116.0,male,16.0,never married,Less Than High School,0.48,6.0,152.0,70.0,112.0
+5123.0,female,27.0,married,,5.0,3.0,223.0,52.0,104.0
+5128.0,female,48.0,divorced,,,6.0,220.0,82.0,142.0
+5135.0,male,80.0,widowed,,1.59,1.0,,5.397605346934027e-79,174.0
+5140.0,male,13.0,,Less Than High School,4.11,4.0,134.0,54.0,106.0
+5145.0,male,19.0,never married,Less Than High School,0.6,2.0,183.0,72.0,140.0
+5155.0,female,53.0,married,,0.38,5.0,,70.0,152.0
+5161.0,female,57.0,married,,0.99,3.0,,70.0,126.0
+5171.0,male,15.0,married,Less Than High School,1.31,6.0,175.0,72.0,116.0
+5175.0,male,62.0,married,,4.44,2.0,262.0,92.0,138.0
+5179.0,female,10.0,,Less Than High School,1.47,7.0,172.0,66.0,86.0
+5188.0,male,64.0,married,,4.95,3.0,189.0,86.0,146.0
+5196.0,female,9.0,,High School Diploma,3.51,5.0,196.0,66.0,104.0
+5201.0,male,15.0,never married,Less Than High School,4.64,4.0,,58.0,102.0
+5205.0,male,17.0,never married,Less Than High School,1.79,5.0,149.0,58.0,102.0
+5213.0,male,52.0,married,,,6.0,198.0,82.0,142.0
+5217.0,female,40.0,separated,,1.39,4.0,186.0,68.0,108.0
+5221.0,male,66.0,divorced,,,1.0,,74.0,122.0
+5225.0,female,80.0,widowed,,1.33,1.0,199.0,60.0,144.0
+5229.0,female,64.0,widowed,,,4.0,204.0,86.0,160.0
+5237.0,female,17.0,never married,Less Than High School,,7.0,137.0,56.0,100.0
+5245.0,female,19.0,never married,More Than High School,1.52,7.0,193.0,54.0,122.0
+5249.0,male,15.0,never married,Less Than High School,,6.0,205.0,50.0,112.0
+5255.0,male,60.0,married,,2.13,2.0,208.0,90.0,132.0
+5259.0,male,34.0,never married,,1.7,3.0,248.0,108.0,144.0
+5265.0,female,81.0,widowed,,1.58,1.0,360.0,62.0,120.0
+5271.0,male,23.0,never married,,2.87,2.0,190.0,60.0,122.0
+5275.0,male,60.0,married,,4.89,2.0,218.0,82.0,120.0
+5280.0,female,14.0,never married,High School Diploma,5.0,4.0,125.0,72.0,116.0
+5284.0,female,70.0,married,,5.0,2.0,209.0,76.0,128.0
+5294.0,female,54.0,divorced,,1.74,2.0,229.0,82.0,118.0
+5303.0,male,30.0,married,,3.23,1.0,210.0,86.0,124.0
+5308.0,male,15.0,never married,High School Diploma,0.58,6.0,147.0,74.0,114.0
+5316.0,male,31.0,married,,2.83,3.0,164.0,76.0,116.0
+5320.0,female,64.0,widowed,,5.0,1.0,209.0,70.0,172.0
+5324.0,male,12.0,,Less Than High School,1.0,5.0,,54.0,98.0
+5335.0,female,41.0,married,,4.64,6.0,178.0,62.0,98.0
+5347.0,female,53.0,,,1.81,2.0,419.0,74.0,124.0
+5358.0,male,48.0,married,,0.07,4.0,,78.0,120.0
+5370.0,female,15.0,never married,Less Than High School,1.7,3.0,198.0,64.0,96.0
+5381.0,female,19.0,never married,Less Than High School,1.31,6.0,138.0,66.0,102.0
+5385.0,female,35.0,never married,,1.41,5.0,168.0,66.0,126.0
+5389.0,male,13.0,,Less Than High School,2.79,4.0,205.0,78.0,104.0
+5393.0,male,49.0,divorced,,,5.0,218.0,72.0,136.0
+5398.0,female,8.0,,Less Than High School,5.0,6.0,150.0,68.0,98.0
+5409.0,male,37.0,married,,5.397605346934027e-79,6.0,166.0,70.0,110.0
+5422.0,female,34.0,,,5.0,3.0,186.0,64.0,108.0
+5426.0,female,82.0,widowed,,1.44,2.0,193.0,104.0,164.0
+5430.0,male,8.0,,Less Than High School,1.55,4.0,178.0,58.0,106.0
+5434.0,male,54.0,married,,,2.0,244.0,78.0,140.0
+5444.0,female,13.0,,Less Than High School,0.78,3.0,141.0,74.0,108.0
+5448.0,male,49.0,living with partner,,3.59,2.0,202.0,78.0,134.0
+5452.0,female,85.0,widowed,,1.44,1.0,183.0,70.0,142.0
+5456.0,female,45.0,married,,4.48,6.0,229.0,62.0,116.0
+5461.0,male,79.0,,,,1.0,276.0,66.0,162.0
+5465.0,female,29.0,married,,1.52,4.0,189.0,74.0,104.0
+5471.0,male,11.0,,High School Diploma,2.51,5.0,147.0,44.0,98.0
+5475.0,female,40.0,,,2.16,3.0,232.0,78.0,118.0
+5479.0,female,75.0,married,,,2.0,220.0,66.0,116.0
+5487.0,male,39.0,separated,,1.78,2.0,314.0,70.0,106.0
+5491.0,male,13.0,,Less Than High School,1.06,6.0,110.0,76.0,112.0
+5495.0,male,13.0,,High School Diploma,1.44,4.0,122.0,52.0,130.0
+5504.0,female,20.0,married,,1.2,7.0,234.0,62.0,94.0
+5510.0,female,40.0,divorced,,2.22,4.0,188.0,74.0,106.0
+5514.0,male,42.0,married,,5.0,4.0,117.0,68.0,114.0
+5519.0,male,57.0,married,,4.44,2.0,172.0,72.0,122.0
+5524.0,female,31.0,never married,,,6.0,219.0,60.0,114.0
+5528.0,female,34.0,married,,,7.0,169.0,64.0,114.0
+5546.0,female,21.0,living with partner,,5.397605346934027e-79,4.0,139.0,90.0,146.0
+5550.0,male,10.0,,Less Than High School,2.71,5.0,195.0,68.0,106.0
+5555.0,female,48.0,never married,,0.65,7.0,178.0,92.0,132.0
+5565.0,female,25.0,married,,0.7,5.0,166.0,64.0,114.0
+5573.0,male,16.0,never married,Less Than High School,4.59,3.0,171.0,72.0,108.0
+5577.0,male,57.0,married,,5.0,2.0,200.0,84.0,140.0
+5583.0,male,15.0,never married,Less Than High School,0.82,4.0,91.0,76.0,114.0
+5587.0,female,57.0,separated,,,7.0,216.0,94.0,202.0
+5591.0,female,53.0,married,,5.0,2.0,215.0,74.0,120.0
+5596.0,female,14.0,never married,Less Than High School,,2.0,151.0,60.0,114.0
+5602.0,male,17.0,never married,Less Than High School,3.97,5.0,206.0,104.0,140.0
+5606.0,female,16.0,never married,Less Than High School,0.7,6.0,232.0,72.0,104.0
+5610.0,male,74.0,married,,5.0,2.0,158.0,56.0,108.0
+5614.0,male,21.0,never married,,2.43,2.0,256.0,50.0,112.0
+5618.0,male,13.0,,Less Than High School,,4.0,131.0,64.0,126.0
+5633.0,male,26.0,never married,,2.79,6.0,162.0,64.0,100.0
+5637.0,female,15.0,never married,Less Than High School,5.0,5.0,153.0,56.0,108.0
+5641.0,male,20.0,never married,,5.0,3.0,204.0,56.0,128.0
+5650.0,female,44.0,never married,,3.76,7.0,185.0,82.0,134.0
+5654.0,female,82.0,married,,1.42,2.0,243.0,74.0,160.0
+5660.0,male,15.0,never married,Less Than High School,3.16,5.0,,68.0,124.0
+5665.0,female,18.0,never married,Less Than High School,4.64,4.0,169.0,62.0,110.0
+5669.0,female,85.0,widowed,,2.16,1.0,,62.0,126.0
+5673.0,male,66.0,married,,2.71,2.0,213.0,78.0,138.0
+5677.0,male,9.0,,Less Than High School,4.69,4.0,174.0,66.0,120.0
+5683.0,female,76.0,widowed,,1.8,1.0,159.0,60.0,140.0
+5689.0,male,65.0,never married,,0.67,1.0,,72.0,168.0
+5693.0,female,12.0,,Less Than High School,0.47,6.0,163.0,66.0,110.0
+5702.0,male,16.0,never married,Less Than High School,0.57,6.0,142.0,80.0,116.0
+5709.0,male,22.0,never married,,1.94,2.0,201.0,70.0,120.0
+5715.0,female,64.0,married,,1.55,3.0,217.0,70.0,154.0
+5722.0,female,30.0,,,4.24,3.0,,58.0,112.0
+5728.0,male,33.0,,,5.0,2.0,236.0,68.0,106.0
+5734.0,male,65.0,married,,0.35,4.0,261.0,72.0,146.0
+5744.0,male,23.0,never married,,4.01,5.0,193.0,82.0,108.0
+5748.0,male,10.0,,Less Than High School,0.7,7.0,144.0,60.0,108.0
+5753.0,male,61.0,married,,3.39,4.0,291.0,88.0,132.0
+5758.0,female,17.0,never married,High School Diploma,,7.0,193.0,68.0,118.0
+5762.0,male,19.0,never married,More Than High School,0.29,5.0,135.0,64.0,106.0
+5771.0,female,9.0,,High School Diploma,4.64,6.0,,20.0,92.0
+5777.0,male,60.0,married,,3.53,3.0,182.0,68.0,138.0
+5792.0,female,52.0,married,,5.0,2.0,277.0,88.0,136.0
+5797.0,male,15.0,never married,Less Than High School,2.76,5.0,135.0,50.0,116.0
+5801.0,female,27.0,living with partner,,5.0,3.0,136.0,76.0,108.0
+5805.0,female,42.0,married,,1.18,6.0,167.0,72.0,124.0
+5811.0,female,44.0,married,,4.51,5.0,214.0,76.0,118.0
+5816.0,male,79.0,married,,2.53,2.0,149.0,64.0,134.0
+5820.0,male,42.0,never married,,5.0,2.0,195.0,70.0,122.0
+5831.0,male,47.0,married,,5.0,2.0,218.0,90.0,132.0
+5836.0,male,40.0,married,,,6.0,150.0,86.0,110.0
+5840.0,male,13.0,,Less Than High School,1.1,5.0,164.0,5.397605346934027e-79,114.0
+5844.0,male,36.0,married,,4.07,4.0,225.0,80.0,116.0
+5848.0,female,18.0,never married,Less Than High School,1.02,3.0,139.0,70.0,120.0
+5852.0,female,51.0,married,,,6.0,201.0,82.0,154.0
+5857.0,female,19.0,never married,More Than High School,1.58,4.0,174.0,68.0,118.0
+5865.0,female,49.0,divorced,,1.56,2.0,285.0,82.0,110.0
+5871.0,female,15.0,never married,Less Than High School,1.47,7.0,,64.0,98.0
+5883.0,female,30.0,married,,,2.0,222.0,46.0,102.0
+5893.0,male,17.0,never married,Less Than High School,4.55,4.0,169.0,48.0,102.0
+5903.0,female,48.0,separated,,0.42,1.0,217.0,76.0,140.0
+5910.0,female,22.0,,,0.67,5.0,223.0,50.0,110.0
+5914.0,female,63.0,married,,0.87,2.0,201.0,72.0,116.0
+5918.0,female,29.0,married,,1.8,3.0,,66.0,112.0
+5922.0,male,44.0,married,,0.83,6.0,186.0,80.0,120.0
+5927.0,female,17.0,never married,Less Than High School,1.41,3.0,181.0,68.0,96.0
+5932.0,female,14.0,never married,High School Diploma,4.11,4.0,127.0,66.0,96.0
+5936.0,male,66.0,never married,,1.82,2.0,211.0,76.0,150.0
+5941.0,male,78.0,married,,0.89,2.0,194.0,62.0,142.0
+5945.0,male,19.0,never married,More Than High School,1.79,6.0,146.0,78.0,112.0
+5949.0,female,59.0,married,,5.0,2.0,245.0,64.0,102.0
+5953.0,female,22.0,married,,2.67,2.0,200.0,56.0,102.0
+5961.0,female,63.0,widowed,,4.01,3.0,180.0,72.0,146.0
+5966.0,male,57.0,married,,0.82,2.0,,80.0,140.0
+5970.0,male,82.0,married,,4.34,2.0,229.0,60.0,180.0
+5978.0,male,13.0,,Less Than High School,0.82,4.0,125.0,82.0,118.0
+5984.0,male,74.0,widowed,,1.2,1.0,185.0,62.0,110.0
+5992.0,male,20.0,never married,,5.0,6.0,163.0,78.0,144.0
+5999.0,male,9.0,,Less Than High School,0.88,6.0,142.0,74.0,110.0
+6003.0,male,46.0,never married,,5.397605346934027e-79,7.0,160.0,56.0,110.0
+6009.0,male,18.0,never married,More Than High School,0.71,7.0,188.0,62.0,124.0
+6014.0,male,12.0,,Less Than High School,0.58,6.0,132.0,60.0,100.0
+6019.0,female,52.0,married,,1.6,2.0,176.0,64.0,114.0
+6023.0,female,14.0,never married,Less Than High School,5.0,5.0,146.0,76.0,106.0
+6027.0,female,55.0,married,,4.0,2.0,178.0,100.0,166.0
+6032.0,male,16.0,never married,Less Than High School,0.88,4.0,114.0,62.0,108.0
+6049.0,male,18.0,never married,More Than High School,1.4,6.0,238.0,5.397605346934027e-79,142.0
+6053.0,female,29.0,married,,2.7,5.0,199.0,72.0,108.0
+6058.0,male,19.0,never married,More Than High School,5.0,4.0,182.0,76.0,122.0
+6062.0,male,12.0,,High School Diploma,1.15,6.0,198.0,58.0,104.0
+6067.0,female,39.0,divorced,,0.18,1.0,175.0,90.0,130.0
+6071.0,female,22.0,never married,,4.51,5.0,185.0,86.0,136.0
+6075.0,male,38.0,living with partner,,3.59,5.0,211.0,74.0,130.0
+6083.0,male,40.0,married,,1.57,7.0,220.0,70.0,96.0
+6087.0,female,29.0,married,,0.43,5.0,212.0,40.0,120.0
+6092.0,female,11.0,,Less Than High School,5.397605346934027e-79,4.0,,46.0,104.0
+6096.0,male,70.0,married,,1.87,2.0,252.0,64.0,114.0
+6105.0,female,18.0,never married,High School Diploma,1.13,7.0,179.0,60.0,118.0
+6110.0,female,31.0,married,,5.0,3.0,242.0,52.0,110.0
+6116.0,female,71.0,married,,1.07,2.0,181.0,102.0,148.0
+6125.0,female,55.0,never married,,5.397605346934027e-79,4.0,246.0,100.0,194.0
+6130.0,female,58.0,,,3.24,4.0,235.0,74.0,124.0
+6134.0,female,10.0,,Less Than High School,1.58,4.0,168.0,5.397605346934027e-79,96.0
+6139.0,female,14.0,never married,Less Than High School,3.2,2.0,199.0,62.0,102.0
+6143.0,female,23.0,living with partner,,2.59,3.0,184.0,60.0,106.0
+6148.0,male,70.0,married,,0.8,2.0,214.0,66.0,136.0
+6154.0,female,32.0,married,,2.51,5.0,222.0,66.0,104.0
+6159.0,female,51.0,separated,,5.397605346934027e-79,3.0,237.0,88.0,176.0
+6163.0,male,16.0,never married,Less Than High School,5.0,4.0,143.0,62.0,96.0
+6168.0,male,21.0,married,,1.27,3.0,141.0,76.0,122.0
+6172.0,female,10.0,,Less Than High School,4.55,4.0,162.0,70.0,108.0
+6181.0,male,30.0,married,,0.85,3.0,,80.0,112.0
+6185.0,female,37.0,married,,1.2,4.0,135.0,74.0,108.0
+6189.0,female,67.0,married,,4.03,3.0,245.0,66.0,166.0
+6196.0,male,65.0,married,,4.44,2.0,206.0,80.0,138.0
+6200.0,male,19.0,never married,More Than High School,0.59,6.0,113.0,74.0,120.0
+6205.0,female,16.0,never married,Less Than High School,3.94,6.0,248.0,76.0,104.0
+6209.0,female,44.0,,,5.0,2.0,244.0,98.0,174.0
+6213.0,male,69.0,married,,,2.0,116.0,84.0,138.0
+6217.0,female,27.0,never married,,0.5,2.0,193.0,60.0,108.0
+6222.0,female,61.0,widowed,,1.5,3.0,216.0,84.0,168.0
+6231.0,male,41.0,married,,0.95,5.0,158.0,84.0,114.0
+6243.0,female,27.0,married,,,2.0,318.0,52.0,96.0
+6247.0,male,61.0,married,,1.07,2.0,225.0,78.0,132.0
+6252.0,female,11.0,,Less Than High School,2.05,5.0,164.0,72.0,116.0
+6257.0,female,9.0,,High School Diploma,1.06,6.0,145.0,66.0,104.0
+6268.0,male,35.0,married,,5.0,3.0,184.0,72.0,114.0
+6273.0,male,37.0,divorced,,1.08,3.0,183.0,72.0,98.0
+6285.0,female,27.0,never married,,,2.0,169.0,54.0,100.0
+6289.0,female,68.0,married,,5.397605346934027e-79,2.0,211.0,78.0,146.0
+6293.0,male,35.0,married,,5.0,6.0,,86.0,130.0
+6298.0,female,39.0,married,,5.0,4.0,213.0,88.0,124.0
+6302.0,female,14.0,never married,High School Diploma,1.05,2.0,,70.0,110.0
+6312.0,male,26.0,separated,,5.0,3.0,242.0,66.0,112.0
+6318.0,male,63.0,married,,,2.0,203.0,76.0,114.0
+6322.0,female,12.0,,Less Than High School,1.14,4.0,178.0,64.0,108.0
+6326.0,male,32.0,never married,,1.58,2.0,135.0,70.0,112.0
+6341.0,male,54.0,,,,4.0,287.0,88.0,148.0
+6345.0,female,14.0,never married,Less Than High School,,7.0,169.0,24.0,94.0
+6358.0,female,16.0,never married,Less Than High School,2.69,7.0,154.0,68.0,116.0
+6375.0,female,14.0,never married,Less Than High School,0.55,5.0,182.0,62.0,108.0
+6379.0,female,71.0,married,,1.04,2.0,185.0,72.0,156.0
+6383.0,female,54.0,divorced,,0.54,2.0,137.0,84.0,140.0
+6390.0,female,58.0,never married,,0.71,2.0,188.0,74.0,148.0
+6394.0,male,14.0,never married,Less Than High School,1.75,5.0,163.0,66.0,106.0
+6408.0,male,19.0,never married,More Than High School,0.72,5.0,127.0,52.0,122.0
+6425.0,female,12.0,,Less Than High School,1.16,4.0,144.0,52.0,116.0
+6429.0,female,33.0,,,4.64,4.0,273.0,52.0,112.0
+6437.0,female,51.0,divorced,,0.32,2.0,206.0,80.0,120.0
+6453.0,female,17.0,never married,High School Diploma,1.07,7.0,181.0,66.0,100.0
+6459.0,female,14.0,never married,Less Than High School,0.76,4.0,212.0,66.0,118.0
+6463.0,male,71.0,married,,,5.0,255.0,68.0,140.0
+6469.0,female,26.0,married,,1.04,4.0,190.0,42.0,114.0
+6473.0,female,79.0,widowed,,1.67,1.0,217.0,74.0,148.0
+6477.0,male,35.0,married,,1.73,3.0,250.0,60.0,124.0
+6481.0,female,16.0,never married,Less Than High School,1.76,4.0,215.0,78.0,114.0
+6485.0,male,70.0,,,0.65,2.0,259.0,90.0,182.0
+6495.0,female,17.0,married,Less Than High School,,7.0,204.0,60.0,110.0
+6500.0,female,10.0,,Less Than High School,2.84,5.0,153.0,56.0,116.0
+6505.0,female,8.0,,Less Than High School,0.16,4.0,173.0,66.0,106.0
+6510.0,female,40.0,separated,,2.65,3.0,217.0,86.0,130.0
+6518.0,female,51.0,,,1.98,3.0,213.0,80.0,126.0
+6522.0,male,20.0,never married,,2.01,5.0,169.0,60.0,112.0
+6536.0,female,32.0,married,,1.29,4.0,200.0,82.0,134.0
+6541.0,male,18.0,never married,Less Than High School,1.22,7.0,178.0,74.0,118.0
+6545.0,male,51.0,married,,1.77,3.0,226.0,82.0,110.0
+6549.0,female,29.0,married,,4.44,2.0,230.0,58.0,100.0
+6556.0,male,67.0,married,,,2.0,215.0,70.0,140.0
+6560.0,female,11.0,,Less Than High School,0.11,5.0,170.0,62.0,102.0
+6564.0,male,14.0,never married,Less Than High School,0.9,4.0,128.0,82.0,114.0
+6574.0,male,50.0,never married,,2.4,1.0,266.0,78.0,132.0
+6578.0,male,47.0,married,,4.55,4.0,225.0,70.0,110.0
+6582.0,female,13.0,,Less Than High School,0.61,6.0,120.0,64.0,100.0
+6586.0,female,14.0,never married,Less Than High School,5.0,4.0,152.0,50.0,100.0
+6590.0,male,14.0,never married,Less Than High School,0.83,6.0,247.0,58.0,88.0
+6594.0,female,19.0,living with partner,More Than High School,0.12,5.0,140.0,48.0,84.0
+6598.0,female,15.0,never married,Less Than High School,0.16,7.0,133.0,62.0,90.0
+6604.0,male,59.0,,,3.39,2.0,276.0,58.0,142.0
+6608.0,female,84.0,widowed,,,1.0,,60.0,162.0
+6612.0,female,18.0,,More Than High School,1.33,3.0,165.0,60.0,98.0
+6620.0,female,13.0,,Less Than High School,0.45,7.0,183.0,68.0,98.0
+6626.0,female,15.0,never married,Less Than High School,1.52,7.0,153.0,68.0,116.0
+6630.0,female,19.0,never married,More Than High School,0.5,7.0,126.0,64.0,112.0
+6635.0,male,13.0,,High School Diploma,1.3,3.0,142.0,58.0,118.0
+6652.0,male,12.0,,Less Than High School,3.93,4.0,213.0,66.0,98.0
+6657.0,male,8.0,,Less Than High School,,7.0,201.0,68.0,82.0
+6661.0,female,63.0,married,,1.1,3.0,194.0,80.0,142.0
+6666.0,female,72.0,widowed,,,4.0,172.0,64.0,168.0
+6671.0,female,43.0,married,,0.85,3.0,192.0,74.0,126.0
+6677.0,male,17.0,never married,Less Than High School,3.11,4.0,163.0,78.0,124.0
+6681.0,male,18.0,never married,More Than High School,1.44,5.0,186.0,60.0,118.0
+6685.0,female,8.0,,High School Diploma,1.07,7.0,189.0,56.0,92.0
+6694.0,male,18.0,never married,Less Than High School,4.26,5.0,187.0,48.0,118.0
+6699.0,male,11.0,,Less Than High School,3.89,3.0,205.0,50.0,116.0
+6703.0,male,74.0,separated,,0.9,1.0,211.0,62.0,128.0
+6707.0,female,18.0,never married,Less Than High School,,2.0,179.0,70.0,126.0
+6713.0,male,17.0,never married,Less Than High School,1.41,4.0,142.0,80.0,128.0
+6717.0,male,34.0,married,,3.18,3.0,181.0,62.0,132.0
+6721.0,male,71.0,married,,,5.0,200.0,70.0,134.0
+6726.0,male,20.0,married,,0.3,4.0,174.0,66.0,116.0
+6730.0,female,26.0,married,,2.22,7.0,235.0,58.0,118.0
+6734.0,male,71.0,,,1.29,1.0,153.0,68.0,144.0
+6738.0,male,60.0,married,,2.4,4.0,192.0,72.0,118.0
+6748.0,female,10.0,,High School Diploma,1.14,7.0,150.0,58.0,90.0
+6753.0,male,14.0,never married,High School Diploma,2.75,4.0,201.0,72.0,106.0
+6758.0,female,65.0,married,,0.76,2.0,169.0,70.0,130.0
+6762.0,female,8.0,,Less Than High School,3.88,5.0,292.0,70.0,102.0
+6766.0,male,17.0,never married,Less Than High School,,6.0,115.0,74.0,116.0
+6771.0,male,46.0,married,,5.0,2.0,220.0,80.0,114.0
+6780.0,female,23.0,never married,,1.08,1.0,,78.0,114.0
+6788.0,female,61.0,widowed,,5.0,2.0,225.0,74.0,114.0
+6794.0,male,8.0,,Less Than High School,0.47,4.0,132.0,66.0,94.0
+6802.0,female,27.0,married,,3.18,3.0,281.0,70.0,126.0
+6808.0,male,64.0,married,,4.07,2.0,189.0,62.0,138.0
+6812.0,male,53.0,living with partner,,3.59,3.0,191.0,66.0,130.0
+6821.0,male,16.0,never married,Less Than High School,2.05,7.0,,70.0,126.0
+6826.0,male,15.0,never married,Less Than High School,0.71,5.0,180.0,72.0,114.0
+6835.0,male,23.0,never married,,,4.0,361.0,64.0,118.0
+6844.0,male,42.0,married,,5.0,4.0,263.0,88.0,126.0
+6848.0,male,10.0,,Less Than High School,0.54,5.0,161.0,50.0,104.0
+6853.0,male,33.0,married,,,7.0,196.0,72.0,126.0
+6861.0,male,51.0,married,,3.16,2.0,187.0,84.0,128.0
+6865.0,female,38.0,married,,1.0,5.0,197.0,56.0,126.0
+6869.0,male,27.0,married,,3.11,4.0,192.0,60.0,110.0
+6873.0,female,36.0,married,,1.47,6.0,226.0,82.0,128.0
+6878.0,male,13.0,,High School Diploma,2.05,5.0,,66.0,118.0
+6882.0,female,16.0,never married,High School Diploma,2.25,5.0,159.0,54.0,108.0
+6893.0,male,13.0,,Less Than High School,1.19,7.0,150.0,60.0,106.0
+6898.0,female,45.0,married,,1.59,7.0,185.0,92.0,142.0
+6902.0,male,14.0,never married,Less Than High School,0.48,6.0,183.0,60.0,100.0
+6906.0,male,81.0,married,,4.27,2.0,169.0,66.0,106.0
+6910.0,male,55.0,divorced,,2.38,4.0,210.0,90.0,126.0
+6915.0,female,26.0,married,,3.59,4.0,250.0,42.0,106.0
+6923.0,female,31.0,married,,4.77,5.0,308.0,72.0,94.0
+6927.0,male,79.0,married,,0.65,7.0,181.0,74.0,120.0
+6931.0,male,45.0,married,,5.0,4.0,198.0,58.0,102.0
+6936.0,female,17.0,never married,Less Than High School,2.51,4.0,138.0,80.0,106.0
+6947.0,female,13.0,,Less Than High School,2.35,4.0,153.0,72.0,106.0
+6952.0,male,22.0,married,,0.64,3.0,,78.0,132.0
+6956.0,male,70.0,married,,4.89,2.0,160.0,68.0,108.0
+6962.0,male,71.0,married,,1.27,3.0,189.0,72.0,136.0
+6967.0,female,70.0,married,,5.0,2.0,195.0,72.0,156.0
+6971.0,male,78.0,married,,4.44,2.0,,76.0,126.0
+6980.0,male,19.0,never married,More Than High School,0.57,6.0,150.0,5.397605346934027e-79,118.0
+6984.0,male,13.0,,High School Diploma,5.0,4.0,151.0,62.0,106.0
+6988.0,female,24.0,divorced,,1.78,2.0,,76.0,112.0
+6999.0,female,54.0,divorced,,5.0,1.0,223.0,90.0,152.0
+7004.0,male,13.0,,Less Than High School,,4.0,125.0,60.0,132.0
+7008.0,female,42.0,widowed,,5.397605346934027e-79,6.0,207.0,80.0,120.0
+7012.0,female,27.0,divorced,,2.83,3.0,,44.0,102.0
+7018.0,female,60.0,married,,1.07,7.0,,88.0,148.0
+7023.0,male,8.0,,Less Than High School,0.22,7.0,177.0,72.0,110.0
+7027.0,female,8.0,,High School Diploma,0.6,7.0,,56.0,114.0
+7031.0,female,24.0,never married,,,6.0,193.0,86.0,126.0
+7039.0,female,14.0,never married,High School Diploma,0.67,6.0,165.0,72.0,114.0
+7043.0,female,35.0,married,,5.0,2.0,190.0,78.0,102.0
+7047.0,male,85.0,widowed,,,2.0,191.0,62.0,126.0
+7051.0,male,31.0,married,,2.83,3.0,159.0,68.0,104.0
+7062.0,male,61.0,,,0.72,1.0,177.0,98.0,142.0
+7067.0,female,39.0,married,,5.0,4.0,164.0,68.0,106.0
+7084.0,female,45.0,never married,,5.0,2.0,250.0,64.0,110.0
+7092.0,male,18.0,never married,Less Than High School,0.45,5.0,173.0,70.0,114.0
+7096.0,female,29.0,married,,4.68,3.0,184.0,78.0,118.0
+7103.0,female,18.0,never married,Less Than High School,4.32,4.0,133.0,80.0,108.0
+7107.0,female,28.0,married,,5.0,2.0,153.0,72.0,104.0
+7112.0,male,24.0,never married,,1.63,3.0,153.0,74.0,114.0
+7116.0,male,16.0,never married,Less Than High School,3.29,4.0,179.0,56.0,102.0
+7122.0,female,10.0,,Less Than High School,4.52,2.0,206.0,60.0,112.0
+7129.0,female,9.0,,Less Than High School,0.83,6.0,165.0,62.0,106.0
+7133.0,female,54.0,married,,5.0,3.0,202.0,76.0,130.0
+7142.0,female,16.0,never married,High School Diploma,2.99,4.0,124.0,70.0,120.0
+7146.0,female,52.0,married,,3.2,2.0,278.0,78.0,142.0
+7152.0,female,18.0,never married,Less Than High School,0.96,1.0,127.0,78.0,100.0
+7160.0,male,81.0,married,,2.13,2.0,196.0,72.0,138.0
+7169.0,female,29.0,never married,,3.08,4.0,199.0,80.0,110.0
+7179.0,female,14.0,never married,Less Than High School,0.49,4.0,111.0,58.0,90.0
+7184.0,female,85.0,widowed,,1.08,1.0,267.0,58.0,184.0
+7188.0,female,19.0,never married,Less Than High School,4.52,3.0,136.0,60.0,102.0
+7192.0,female,45.0,living with partner,,5.0,3.0,230.0,66.0,134.0
+7196.0,female,69.0,don't know,,,4.0,244.0,70.0,130.0
+7200.0,female,16.0,never married,Less Than High School,0.74,5.0,199.0,68.0,100.0
+7207.0,female,19.0,never married,More Than High School,0.09,4.0,165.0,62.0,106.0
+7212.0,male,48.0,married,,5.0,3.0,226.0,86.0,122.0
+7217.0,female,68.0,widowed,,0.44,6.0,145.0,48.0,136.0
+7229.0,male,60.0,,,3.24,3.0,217.0,84.0,126.0
+7235.0,female,16.0,never married,Less Than High School,,6.0,135.0,70.0,114.0
+7239.0,male,12.0,,Less Than High School,0.31,7.0,119.0,52.0,106.0
+7244.0,male,82.0,married,,0.93,2.0,161.0,78.0,150.0
+7249.0,male,42.0,married,,4.4,4.0,225.0,72.0,132.0
+7263.0,female,19.0,,More Than High School,1.6,2.0,152.0,70.0,98.0
+7267.0,female,78.0,widowed,,,4.0,216.0,66.0,146.0
+7273.0,male,37.0,divorced,,1.2,1.0,220.0,90.0,118.0
+7278.0,male,62.0,married,,2.39,2.0,284.0,84.0,126.0
+7286.0,female,16.0,never married,Less Than High School,2.04,2.0,162.0,70.0,94.0
+7302.0,male,17.0,never married,More Than High School,0.9,4.0,166.0,44.0,116.0
+7307.0,female,42.0,separated,,1.7,3.0,174.0,78.0,124.0
+7311.0,female,17.0,never married,Less Than High School,1.38,4.0,156.0,74.0,112.0
+7320.0,female,11.0,,Less Than High School,3.88,5.0,,66.0,100.0
+7332.0,male,37.0,married,,0.91,4.0,185.0,60.0,114.0
+7338.0,female,16.0,never married,More Than High School,0.49,4.0,210.0,48.0,108.0
+7349.0,male,27.0,never married,,3.03,2.0,118.0,66.0,126.0
+7358.0,female,73.0,divorced,,4.18,1.0,182.0,30.0,130.0
+7363.0,female,34.0,married,,,2.0,191.0,66.0,96.0
+7377.0,female,66.0,married,,1.37,2.0,221.0,84.0,164.0
+7381.0,female,51.0,never married,,0.21,3.0,219.0,84.0,116.0
+7389.0,male,55.0,,,,2.0,,70.0,124.0
+7397.0,female,18.0,never married,Less Than High School,1.42,7.0,138.0,78.0,106.0
+7403.0,female,14.0,never married,Less Than High School,0.02,6.0,149.0,46.0,108.0
+7408.0,female,19.0,never married,Less Than High School,0.04,2.0,188.0,66.0,110.0
+7412.0,female,37.0,married,,4.01,5.0,211.0,96.0,134.0
+7417.0,male,8.0,,High School Diploma,0.86,3.0,160.0,52.0,90.0
+7434.0,male,19.0,never married,Less Than High School,1.13,3.0,335.0,60.0,124.0
+7438.0,female,15.0,never married,Less Than High School,1.25,7.0,155.0,70.0,100.0
+7447.0,male,11.0,,Less Than High School,,5.0,,74.0,102.0
+7457.0,male,33.0,living with partner,,3.95,2.0,165.0,74.0,124.0
+7466.0,male,76.0,married,,,2.0,192.0,14.0,146.0
+7476.0,female,41.0,divorced,,0.72,2.0,214.0,64.0,98.0
+7481.0,male,9.0,,Less Than High School,0.05,5.0,575.0,28.0,86.0
+7491.0,male,54.0,divorced,,5.0,1.0,233.0,80.0,108.0
+7498.0,male,17.0,never married,Less Than High School,2.63,6.0,178.0,52.0,102.0
+7502.0,male,84.0,married,,3.38,2.0,173.0,66.0,118.0
+7506.0,female,28.0,never married,,4.24,3.0,203.0,80.0,102.0
+7510.0,male,8.0,,Less Than High School,1.41,4.0,205.0,70.0,104.0
+7515.0,male,19.0,never married,Less Than High School,,3.0,140.0,72.0,120.0
+7520.0,female,85.0,,,,1.0,145.0,70.0,174.0
+7524.0,female,19.0,living with partner,High School Diploma,1.26,2.0,210.0,54.0,106.0
+7532.0,male,79.0,widowed,,,2.0,164.0,58.0,126.0
+7536.0,female,38.0,married,,1.4,5.0,194.0,60.0,130.0
+7542.0,female,40.0,never married,,1.99,2.0,198.0,106.0,152.0
+7548.0,male,52.0,married,,1.2,5.0,178.0,78.0,132.0
+7552.0,female,64.0,widowed,,0.75,4.0,222.0,70.0,122.0
+7556.0,male,18.0,never married,Less Than High School,0.6,2.0,126.0,70.0,116.0
+7560.0,male,14.0,never married,Less Than High School,3.44,4.0,130.0,64.0,130.0
+7564.0,male,10.0,,High School Diploma,4.64,4.0,252.0,46.0,104.0
+7568.0,male,25.0,separated,,4.79,1.0,150.0,62.0,122.0
+7590.0,female,32.0,living with partner,,0.02,5.0,204.0,76.0,106.0
+7594.0,male,19.0,never married,Less Than High School,1.02,7.0,138.0,78.0,124.0
+7598.0,female,76.0,widowed,,1.2,1.0,212.0,76.0,138.0
+7605.0,female,43.0,divorced,,2.53,2.0,163.0,80.0,122.0
+7609.0,female,52.0,separated,,,6.0,207.0,72.0,128.0
+7615.0,female,35.0,married,,2.12,5.0,,64.0,146.0
+7619.0,male,42.0,married,,5.397605346934027e-79,4.0,170.0,68.0,124.0
+7629.0,male,12.0,,Less Than High School,0.7,5.0,161.0,56.0,98.0
+7633.0,male,15.0,never married,Less Than High School,0.92,7.0,151.0,48.0,108.0
+7638.0,male,15.0,never married,Less Than High School,1.57,7.0,183.0,64.0,88.0
+7642.0,male,13.0,,Less Than High School,0.77,5.0,155.0,52.0,120.0
+7648.0,male,9.0,,Less Than High School,0.61,6.0,191.0,66.0,100.0
+7656.0,female,48.0,divorced,,5.0,4.0,186.0,72.0,108.0
+7662.0,male,17.0,never married,Less Than High School,2.3,3.0,169.0,70.0,116.0
+7671.0,female,34.0,married,,2.99,4.0,99.0,44.0,128.0
+7675.0,female,17.0,never married,Less Than High School,0.71,5.0,,54.0,100.0
+7679.0,female,13.0,,Less Than High School,4.36,2.0,150.0,64.0,112.0
+7684.0,female,25.0,married,,,7.0,,60.0,110.0
+7693.0,female,13.0,,Less Than High School,1.59,7.0,130.0,66.0,98.0
+7702.0,male,8.0,,Less Than High School,,6.0,152.0,46.0,102.0
+7706.0,female,44.0,divorced,,0.92,5.0,248.0,80.0,114.0
+7710.0,male,14.0,never married,High School Diploma,5.0,6.0,183.0,54.0,106.0
+7714.0,male,21.0,never married,,3.16,2.0,174.0,60.0,92.0
+7719.0,male,11.0,,Less Than High School,0.08,5.0,177.0,42.0,92.0
+7724.0,female,15.0,married,More Than High School,0.28,5.0,141.0,70.0,108.0
+7728.0,female,18.0,never married,More Than High School,,5.0,159.0,58.0,106.0
+7734.0,female,71.0,married,,2.31,2.0,158.0,92.0,168.0
+7739.0,male,44.0,,,5.0,3.0,161.0,74.0,114.0
+7743.0,male,21.0,never married,,0.72,3.0,168.0,88.0,138.0
+7748.0,female,45.0,married,,0.81,2.0,268.0,72.0,102.0
+7752.0,female,10.0,,High School Diploma,0.59,4.0,137.0,66.0,94.0
+7756.0,male,17.0,never married,Less Than High School,5.0,7.0,151.0,52.0,110.0
+7760.0,female,14.0,never married,Less Than High School,,6.0,153.0,66.0,118.0
+7764.0,female,78.0,married,,2.26,2.0,192.0,50.0,156.0
+7768.0,female,27.0,never married,,1.96,2.0,174.0,76.0,122.0
+7774.0,female,18.0,never married,High School Diploma,5.0,3.0,143.0,60.0,110.0
+7778.0,female,43.0,married,,1.78,2.0,205.0,70.0,98.0
+7787.0,male,19.0,never married,More Than High School,5.0,6.0,177.0,32.0,106.0
+7793.0,female,10.0,,High School Diploma,,5.0,147.0,76.0,110.0
+7798.0,male,17.0,never married,Less Than High School,,7.0,186.0,56.0,128.0
+7802.0,female,62.0,,,5.397605346934027e-79,1.0,314.0,90.0,144.0
+7806.0,male,16.0,married,More Than High School,0.03,7.0,137.0,80.0,120.0
+7810.0,male,29.0,never married,,0.65,7.0,203.0,96.0,140.0
+7814.0,male,44.0,married,,,5.0,270.0,78.0,118.0
+7822.0,female,41.0,never married,,5.0,2.0,236.0,72.0,112.0
+7832.0,male,12.0,,Less Than High School,0.31,7.0,144.0,54.0,116.0
+7837.0,male,62.0,married,,2.26,2.0,153.0,52.0,92.0
+7841.0,male,62.0,,,,2.0,217.0,84.0,138.0
+7845.0,male,19.0,never married,Less Than High School,1.21,1.0,182.0,74.0,114.0
+7850.0,male,14.0,never married,Less Than High School,1.06,4.0,148.0,70.0,96.0
+7855.0,female,18.0,never married,High School Diploma,3.59,4.0,137.0,70.0,110.0
+7864.0,female,83.0,,,1.72,2.0,,50.0,144.0
+7874.0,female,72.0,never married,,,1.0,,70.0,142.0
+7879.0,male,12.0,,High School Diploma,0.9,4.0,147.0,70.0,104.0
+7890.0,female,24.0,living with partner,,3.16,3.0,174.0,64.0,106.0
+7895.0,female,13.0,,Less Than High School,1.23,4.0,229.0,60.0,106.0
+7900.0,female,85.0,married,,,2.0,188.0,70.0,138.0
+7909.0,female,18.0,never married,More Than High School,0.49,4.0,125.0,80.0,116.0
+7914.0,female,13.0,,Less Than High School,0.88,3.0,156.0,60.0,114.0
+7918.0,male,73.0,married,,1.91,2.0,191.0,78.0,154.0
+7922.0,female,68.0,,,1.94,2.0,270.0,72.0,150.0
+7926.0,female,67.0,married,,0.75,2.0,172.0,84.0,130.0
+7935.0,female,49.0,divorced,,5.0,1.0,244.0,78.0,126.0
+7939.0,male,64.0,married,,5.0,2.0,250.0,84.0,128.0
+7943.0,female,12.0,,High School Diploma,1.28,5.0,158.0,62.0,96.0
+7947.0,male,63.0,widowed,,4.79,1.0,179.0,80.0,104.0
+7952.0,female,22.0,,,0.61,5.0,165.0,50.0,104.0
+7971.0,female,19.0,married,More Than High School,0.03,7.0,124.0,76.0,126.0
+7976.0,male,12.0,,Less Than High School,0.84,4.0,143.0,68.0,110.0
+7985.0,male,81.0,married,,5.0,2.0,210.0,78.0,152.0
+7992.0,male,53.0,,,0.69,3.0,174.0,66.0,94.0
+7996.0,female,15.0,never married,Less Than High School,0.63,6.0,192.0,54.0,94.0
+8015.0,male,19.0,never married,More Than High School,1.28,5.0,195.0,74.0,132.0
+8023.0,female,16.0,never married,Less Than High School,0.72,3.0,153.0,58.0,94.0
+8028.0,female,84.0,widowed,,0.5,2.0,257.0,30.0,154.0
+8032.0,female,9.0,,Less Than High School,1.76,5.0,150.0,62.0,88.0
+8037.0,male,28.0,never married,,4.32,3.0,215.0,68.0,96.0
+8045.0,male,17.0,never married,Less Than High School,1.57,7.0,241.0,78.0,128.0
+8050.0,male,54.0,married,,5.0,2.0,224.0,82.0,126.0
+8055.0,male,81.0,widowed,,4.29,2.0,181.0,66.0,130.0
+8059.0,male,19.0,never married,More Than High School,,5.0,208.0,5.397605346934027e-79,136.0
+8065.0,male,17.0,never married,Less Than High School,,2.0,145.0,50.0,104.0
+8078.0,female,74.0,divorced,,3.08,2.0,279.0,66.0,162.0
+8083.0,male,17.0,never married,Less Than High School,0.94,7.0,122.0,5.397605346934027e-79,122.0
+8088.0,male,43.0,,,,5.0,203.0,60.0,106.0
+8092.0,female,27.0,,,1.59,3.0,188.0,60.0,110.0
+8096.0,male,56.0,married,,0.38,5.0,138.0,96.0,150.0
+8100.0,female,65.0,married,,,2.0,176.0,72.0,148.0
+8106.0,female,18.0,never married,Less Than High School,1.44,4.0,127.0,54.0,110.0
+8116.0,male,14.0,never married,Less Than High School,0.21,4.0,166.0,62.0,114.0
+8120.0,male,61.0,divorced,,,1.0,265.0,80.0,122.0
+8125.0,female,60.0,married,,,2.0,233.0,74.0,120.0
+8130.0,female,18.0,never married,Less Than High School,,3.0,161.0,68.0,102.0
+8134.0,female,17.0,never married,Less Than High School,2.05,5.0,112.0,74.0,116.0
+8144.0,male,10.0,,Less Than High School,3.18,3.0,178.0,66.0,110.0
+8148.0,male,41.0,married,,0.92,4.0,233.0,128.0,198.0
+8153.0,female,34.0,married,,5.0,3.0,173.0,58.0,98.0
+8159.0,male,15.0,never married,Less Than High School,5.0,7.0,167.0,74.0,94.0
+8164.0,female,24.0,never married,,5.397605346934027e-79,4.0,243.0,50.0,124.0
+8169.0,male,59.0,married,,3.29,2.0,198.0,66.0,140.0
+8174.0,male,66.0,married,,4.44,2.0,188.0,74.0,130.0
+8181.0,male,81.0,,,,1.0,222.0,48.0,90.0
+8186.0,male,74.0,married,,2.62,2.0,224.0,78.0,122.0
+8195.0,male,10.0,,Less Than High School,,6.0,,66.0,118.0
+8199.0,male,69.0,married,,5.0,2.0,193.0,78.0,120.0
+8204.0,male,40.0,,,0.81,1.0,195.0,70.0,104.0
+8208.0,female,46.0,married,,1.87,5.0,224.0,78.0,114.0
+8214.0,female,49.0,married,,5.0,5.0,204.0,80.0,118.0
+8219.0,male,68.0,married,,3.02,2.0,224.0,62.0,120.0
+8231.0,female,17.0,never married,Less Than High School,5.0,6.0,167.0,64.0,110.0
+8236.0,female,17.0,never married,Less Than High School,1.14,4.0,185.0,84.0,124.0
+8241.0,female,52.0,married,,2.28,1.0,196.0,72.0,140.0
+8246.0,female,60.0,,,2.53,4.0,,64.0,116.0
+8250.0,male,15.0,never married,High School Diploma,3.88,5.0,156.0,66.0,124.0
+8256.0,male,8.0,,Less Than High School,0.87,7.0,143.0,64.0,102.0
+8260.0,male,37.0,married,,1.47,4.0,229.0,84.0,116.0
+8264.0,female,46.0,married,,3.18,3.0,202.0,78.0,120.0
+8271.0,female,67.0,married,,3.39,2.0,293.0,68.0,120.0
+8275.0,female,41.0,married,,3.52,4.0,226.0,68.0,122.0
+8280.0,female,13.0,,Less Than High School,,3.0,172.0,62.0,110.0
+8293.0,male,63.0,married,,5.0,2.0,196.0,72.0,110.0
+8300.0,male,9.0,,Less Than High School,0.18,4.0,188.0,74.0,96.0
+8305.0,male,13.0,,Less Than High School,1.07,2.0,195.0,66.0,96.0
+8310.0,female,15.0,never married,Less Than High School,0.45,7.0,193.0,72.0,110.0
+8321.0,female,59.0,,,0.79,1.0,202.0,58.0,122.0
+8325.0,female,39.0,married,,5.0,2.0,185.0,72.0,112.0
+8330.0,male,19.0,never married,Less Than High School,0.75,5.0,143.0,68.0,112.0
+8334.0,male,13.0,,Less Than High School,1.09,4.0,,82.0,124.0
+8348.0,male,15.0,never married,Less Than High School,3.81,4.0,142.0,80.0,126.0
+8365.0,female,70.0,married,,1.27,3.0,198.0,60.0,162.0
+8369.0,female,14.0,never married,Less Than High School,1.33,6.0,226.0,70.0,110.0
+8381.0,female,45.0,married,,5.0,4.0,257.0,82.0,130.0
+8385.0,female,30.0,never married,,1.08,3.0,181.0,66.0,138.0
+8395.0,male,14.0,never married,Less Than High School,5.0,6.0,166.0,78.0,128.0
+8399.0,female,69.0,never married,,,1.0,212.0,118.0,208.0
+8405.0,female,62.0,divorced,,1.16,2.0,200.0,74.0,128.0
+8414.0,female,42.0,divorced,,,4.0,185.0,64.0,100.0
+8421.0,male,29.0,,,5.397605346934027e-79,7.0,133.0,72.0,114.0
+8426.0,female,43.0,widowed,,4.36,2.0,196.0,76.0,124.0
+8431.0,female,36.0,divorced,,2.67,2.0,256.0,66.0,102.0
+8440.0,male,79.0,married,,,2.0,131.0,58.0,134.0
+8446.0,male,16.0,never married,Less Than High School,2.35,4.0,140.0,54.0,116.0
+8465.0,female,17.0,never married,Less Than High School,1.57,7.0,,60.0,114.0
+8469.0,female,16.0,never married,Less Than High School,1.64,5.0,,56.0,98.0
+8474.0,female,14.0,never married,Less Than High School,1.2,4.0,144.0,62.0,102.0
+8479.0,female,8.0,,Less Than High School,1.6,5.0,147.0,68.0,100.0
+8483.0,male,18.0,never married,More Than High School,,3.0,,88.0,120.0
+8488.0,female,35.0,married,,,5.0,,68.0,108.0
+8498.0,male,50.0,married,,0.82,5.0,252.0,86.0,126.0
+8503.0,male,9.0,,Less Than High School,1.08,3.0,158.0,20.0,110.0
+8507.0,male,15.0,never married,Less Than High School,0.07,6.0,159.0,56.0,92.0
+8511.0,male,73.0,married,,2.35,4.0,230.0,76.0,96.0
+8515.0,female,11.0,,Less Than High School,0.71,5.0,181.0,76.0,108.0
+8519.0,female,28.0,living with partner,,1.8,3.0,164.0,56.0,88.0
+8524.0,female,12.0,,High School Diploma,1.14,7.0,,70.0,108.0
+8528.0,male,37.0,never married,,5.0,4.0,215.0,78.0,110.0
+8538.0,female,24.0,married,,,4.0,192.0,54.0,114.0
+8543.0,male,8.0,,Less Than High School,5.0,5.0,167.0,58.0,90.0
+8548.0,male,81.0,widowed,,3.47,1.0,215.0,72.0,180.0
+8554.0,male,17.0,never married,Less Than High School,5.397605346934027e-79,7.0,,44.0,120.0
+8558.0,female,38.0,married,,,7.0,192.0,58.0,106.0
+8563.0,male,45.0,divorced,,1.44,1.0,266.0,78.0,122.0
+8568.0,female,31.0,married,,4.4,4.0,193.0,48.0,102.0
+8572.0,male,72.0,married,,2.76,2.0,174.0,78.0,148.0
+8577.0,male,16.0,never married,Less Than High School,1.97,6.0,134.0,66.0,122.0
+8581.0,male,19.0,never married,Less Than High School,3.51,5.0,159.0,76.0,114.0
+8588.0,female,14.0,never married,Less Than High School,1.01,7.0,162.0,60.0,104.0
+8592.0,female,10.0,,Less Than High School,0.24,5.0,212.0,50.0,106.0
+8600.0,female,15.0,never married,Less Than High School,0.59,7.0,116.0,76.0,102.0
+8606.0,male,78.0,married,,,2.0,214.0,78.0,152.0
+8613.0,male,43.0,married,,2.02,3.0,275.0,82.0,122.0
+8626.0,female,34.0,never married,,,3.0,219.0,64.0,104.0
+8639.0,female,45.0,never married,,0.53,2.0,244.0,86.0,178.0
+8644.0,male,9.0,,High School Diploma,1.54,5.0,,64.0,108.0
+8649.0,female,16.0,never married,Less Than High School,0.88,6.0,178.0,84.0,106.0
+8654.0,male,14.0,never married,High School Diploma,2.56,5.0,159.0,64.0,114.0
+8672.0,female,25.0,married,,4.44,2.0,153.0,66.0,98.0
+8677.0,male,16.0,never married,Less Than High School,1.78,5.0,109.0,56.0,110.0
+8681.0,male,16.0,never married,Less Than High School,1.77,6.0,151.0,34.0,124.0
+8685.0,male,11.0,,High School Diploma,1.14,7.0,156.0,68.0,104.0
+8689.0,female,18.0,never married,Less Than High School,1.02,7.0,162.0,70.0,120.0
+8693.0,female,51.0,divorced,,5.0,1.0,186.0,68.0,94.0
+8697.0,male,70.0,married,,1.96,2.0,165.0,64.0,140.0
+8701.0,male,85.0,widowed,,,2.0,195.0,74.0,130.0
+8705.0,female,32.0,,,0.92,5.0,221.0,74.0,120.0
+8710.0,male,50.0,married,,5.0,2.0,203.0,92.0,128.0
+8718.0,male,16.0,never married,Less Than High School,2.64,4.0,171.0,60.0,88.0
+8722.0,female,11.0,,Less Than High School,0.1,4.0,123.0,52.0,116.0
+8730.0,female,58.0,widowed,,1.05,2.0,218.0,64.0,108.0
+8734.0,female,77.0,widowed,,,1.0,218.0,86.0,170.0
+8742.0,female,21.0,married,,,3.0,251.0,64.0,114.0
+8747.0,male,14.0,never married,Less Than High School,2.64,4.0,202.0,34.0,130.0
+8759.0,male,76.0,married,,5.0,3.0,211.0,90.0,150.0
+8772.0,female,59.0,married,,3.18,3.0,226.0,70.0,124.0
+8776.0,male,61.0,married,,1.45,2.0,180.0,80.0,134.0
+8782.0,female,16.0,never married,Less Than High School,3.59,4.0,175.0,76.0,110.0
+8792.0,female,22.0,never married,,1.33,2.0,,68.0,96.0
+8797.0,male,44.0,divorced,,1.41,1.0,118.0,84.0,156.0
+8806.0,female,49.0,married,,5.0,4.0,225.0,72.0,116.0
+8810.0,male,41.0,,,5.0,3.0,203.0,78.0,122.0
+8815.0,male,50.0,married,,4.48,6.0,203.0,72.0,102.0
+8819.0,female,51.0,divorced,,4.44,2.0,216.0,88.0,142.0
+8824.0,male,15.0,never married,Less Than High School,0.75,5.0,125.0,60.0,100.0
+8833.0,female,21.0,married,,3.62,4.0,122.0,68.0,116.0
+8852.0,male,67.0,married,,1.64,2.0,190.0,92.0,160.0
+8867.0,male,17.0,never married,Less Than High School,2.22,2.0,179.0,76.0,116.0
+8871.0,male,16.0,never married,Less Than High School,1.6,5.0,132.0,48.0,106.0
+8881.0,male,72.0,married,,2.67,2.0,148.0,48.0,108.0
+8896.0,male,14.0,never married,Less Than High School,0.57,6.0,113.0,54.0,106.0
+8900.0,female,18.0,never married,Less Than High School,5.0,5.0,190.0,70.0,110.0
+8915.0,male,31.0,married,,1.14,7.0,142.0,64.0,118.0
+8919.0,male,38.0,never married,,3.52,4.0,189.0,68.0,106.0
+8924.0,male,23.0,married,,0.99,4.0,175.0,68.0,118.0
+8929.0,female,16.0,never married,Less Than High School,2.01,3.0,166.0,56.0,96.0
+8935.0,female,9.0,,Less Than High School,2.38,5.0,165.0,64.0,94.0
+8940.0,female,34.0,married,,5.0,3.0,188.0,70.0,116.0
+8944.0,male,77.0,married,,2.89,2.0,203.0,72.0,138.0
+8953.0,male,85.0,living with partner,,1.92,2.0,218.0,82.0,128.0
+8957.0,male,45.0,married,,5.0,5.0,175.0,78.0,116.0
+8961.0,male,11.0,,Less Than High School,1.92,4.0,,76.0,112.0
+8966.0,female,85.0,widowed,,,7.0,177.0,80.0,180.0
+8976.0,female,19.0,never married,More Than High School,0.18,3.0,176.0,60.0,108.0
+8985.0,female,22.0,married,,4.24,3.0,154.0,62.0,106.0
+8998.0,male,16.0,never married,High School Diploma,0.99,4.0,121.0,58.0,130.0
+9008.0,female,17.0,never married,High School Diploma,1.99,4.0,161.0,62.0,92.0
+9015.0,female,28.0,married,,1.59,3.0,171.0,68.0,108.0
+9022.0,female,18.0,never married,Less Than High School,0.24,2.0,214.0,66.0,106.0
+9027.0,female,20.0,never married,,1.09,1.0,,70.0,106.0
+9034.0,male,8.0,,Less Than High School,0.72,4.0,,52.0,120.0
+9039.0,female,67.0,married,,1.87,2.0,,74.0,128.0
+9043.0,male,19.0,never married,Less Than High School,2.1,4.0,202.0,90.0,116.0
+9048.0,female,59.0,married,,1.77,3.0,245.0,86.0,142.0
+9053.0,female,47.0,never married,,0.04,2.0,308.0,96.0,156.0
+9063.0,female,18.0,never married,More Than High School,,5.0,,40.0,118.0
+9067.0,male,16.0,never married,Less Than High School,0.63,6.0,183.0,56.0,98.0
+9071.0,female,18.0,never married,More Than High School,0.72,5.0,174.0,56.0,118.0
+9075.0,male,18.0,never married,More Than High School,1.8,4.0,169.0,70.0,120.0
+9080.0,male,12.0,,Less Than High School,4.52,2.0,155.0,50.0,98.0
+9088.0,male,12.0,,Less Than High School,1.17,4.0,208.0,66.0,116.0
+9093.0,male,8.0,,Less Than High School,1.79,5.0,144.0,52.0,90.0
+9097.0,male,56.0,married,,5.0,2.0,217.0,78.0,140.0
+9101.0,male,25.0,never married,,3.11,2.0,162.0,90.0,124.0
+9105.0,male,17.0,never married,Less Than High School,5.0,2.0,168.0,68.0,124.0
+9113.0,female,84.0,widowed,,1.46,4.0,210.0,76.0,184.0
+9119.0,female,18.0,never married,More Than High School,,7.0,142.0,68.0,110.0
+9129.0,female,64.0,married,,2.12,3.0,190.0,70.0,116.0
+9133.0,male,18.0,never married,More Than High School,0.27,5.0,150.0,72.0,110.0
+9145.0,female,47.0,living with partner,,0.05,2.0,215.0,90.0,130.0
+9149.0,male,77.0,married,,4.52,2.0,164.0,52.0,160.0
+9154.0,female,60.0,widowed,,0.83,1.0,228.0,56.0,122.0
+9169.0,female,45.0,married,,3.6,3.0,200.0,70.0,126.0
+9173.0,male,74.0,married,,5.0,2.0,221.0,80.0,144.0
+9177.0,male,72.0,married,,2.58,6.0,217.0,74.0,114.0
+9181.0,male,65.0,married,,3.53,3.0,267.0,64.0,128.0
+9190.0,female,63.0,married,,1.96,2.0,221.0,68.0,114.0
+9194.0,female,81.0,married,,1.41,3.0,283.0,22.0,210.0
+9198.0,female,14.0,never married,Less Than High School,0.35,4.0,126.0,52.0,108.0
+9206.0,male,70.0,married,,,2.0,261.0,68.0,130.0
+9210.0,female,68.0,married,,5.0,3.0,214.0,78.0,142.0
+9221.0,female,26.0,married,,2.35,4.0,204.0,54.0,102.0
+9226.0,male,14.0,never married,Less Than High School,1.51,3.0,120.0,66.0,104.0
+9230.0,female,15.0,never married,Less Than High School,0.77,7.0,156.0,66.0,106.0
+9234.0,female,74.0,married,,0.77,2.0,180.0,52.0,136.0
+9245.0,male,16.0,never married,High School Diploma,0.18,5.0,154.0,48.0,114.0
+9254.0,male,65.0,married,,4.86,3.0,179.0,90.0,152.0
+9262.0,male,21.0,never married,,4.64,4.0,153.0,78.0,126.0
+9268.0,male,60.0,married,,2.71,6.0,192.0,92.0,160.0
+9278.0,male,14.0,never married,Less Than High School,0.9,6.0,156.0,66.0,100.0
+9295.0,female,41.0,divorced,,5.0,1.0,211.0,74.0,104.0
+9299.0,female,14.0,never married,High School Diploma,3.29,4.0,177.0,68.0,106.0
+9303.0,female,74.0,widowed,,2.51,5.0,244.0,64.0,158.0
+9307.0,male,11.0,,High School Diploma,3.74,4.0,143.0,68.0,104.0
+9311.0,female,26.0,,,3.76,3.0,182.0,48.0,102.0
+9316.0,male,72.0,married,,1.64,2.0,172.0,76.0,138.0
+9320.0,male,13.0,,Less Than High School,3.36,3.0,144.0,58.0,94.0
+9325.0,female,38.0,married,,0.79,4.0,206.0,62.0,94.0
+9339.0,female,56.0,divorced,,4.79,1.0,191.0,96.0,152.0
+9344.0,female,78.0,widowed,,0.99,1.0,185.0,58.0,154.0
+9348.0,male,18.0,never married,More Than High School,3.76,5.0,134.0,58.0,108.0
+9356.0,male,16.0,never married,Less Than High School,0.36,6.0,,70.0,100.0
+9360.0,male,41.0,never married,,1.46,3.0,197.0,84.0,136.0
+9369.0,female,74.0,married,,1.07,2.0,236.0,60.0,154.0
+9380.0,male,60.0,,,1.3,2.0,201.0,74.0,120.0
+9384.0,male,19.0,never married,More Than High School,2.47,3.0,,72.0,128.0
+9388.0,male,14.0,never married,Less Than High School,1.17,6.0,131.0,76.0,104.0
+9412.0,female,39.0,divorced,,4.19,2.0,204.0,76.0,132.0
+9429.0,male,75.0,married,,0.62,2.0,163.0,56.0,122.0
+9433.0,female,14.0,married,Less Than High School,1.12,6.0,129.0,60.0,106.0
+9437.0,male,12.0,,Less Than High School,2.16,3.0,212.0,52.0,128.0
+9445.0,female,69.0,,,0.98,2.0,215.0,74.0,124.0
+9459.0,male,61.0,married,,2.71,2.0,197.0,90.0,146.0
+9473.0,male,16.0,never married,Less Than High School,1.34,3.0,133.0,66.0,128.0
+9477.0,female,66.0,married,,2.71,2.0,209.0,68.0,172.0
+9482.0,female,41.0,married,,5.0,2.0,153.0,68.0,110.0
+9491.0,male,11.0,,High School Diploma,,5.0,228.0,58.0,110.0
+9497.0,male,45.0,married,,,5.0,,88.0,132.0
+9502.0,female,66.0,divorced,,2.49,2.0,255.0,58.0,114.0
+9507.0,male,35.0,married,,5.0,2.0,159.0,76.0,108.0
+9514.0,male,18.0,never married,More Than High School,3.24,4.0,138.0,68.0,124.0
+9519.0,male,66.0,married,,3.39,2.0,193.0,74.0,160.0
+9524.0,female,13.0,,Less Than High School,4.4,7.0,169.0,60.0,104.0
+9528.0,female,33.0,never married,,,6.0,171.0,74.0,120.0
+9532.0,female,64.0,widowed,,5.0,1.0,226.0,78.0,136.0
+9536.0,male,43.0,married,,2.76,2.0,316.0,96.0,136.0
+9540.0,female,10.0,,Less Than High School,4.55,4.0,,68.0,90.0
+9545.0,male,10.0,,Less Than High School,2.53,2.0,176.0,66.0,106.0
+9550.0,female,64.0,separated,,0.57,3.0,256.0,74.0,134.0
+9562.0,male,8.0,,High School Diploma,5.397605346934027e-79,7.0,211.0,60.0,106.0
+9575.0,female,15.0,never married,Less Than High School,1.09,6.0,162.0,68.0,104.0
+9579.0,female,30.0,married,,,7.0,153.0,60.0,104.0
+9591.0,female,15.0,never married,Less Than High School,0.72,5.0,178.0,74.0,104.0
+9609.0,male,16.0,never married,Less Than High School,,7.0,131.0,56.0,110.0
+9614.0,male,45.0,married,,2.4,3.0,292.0,74.0,106.0
+9619.0,male,31.0,married,,,5.0,,44.0,110.0
+9625.0,female,70.0,married,,0.89,3.0,223.0,64.0,140.0
+9631.0,female,10.0,,High School Diploma,3.18,3.0,180.0,54.0,88.0
+9642.0,female,16.0,never married,Less Than High School,3.88,5.0,203.0,60.0,100.0
+9647.0,male,17.0,never married,High School Diploma,2.17,6.0,155.0,76.0,118.0
+9656.0,male,85.0,married,,4.19,1.0,212.0,72.0,130.0
+9665.0,female,40.0,married,,2.62,2.0,182.0,74.0,120.0
+9669.0,female,43.0,married,,4.64,4.0,213.0,80.0,104.0
+9673.0,female,10.0,,Less Than High School,5.0,4.0,181.0,70.0,96.0
+9677.0,female,40.0,separated,,1.24,2.0,182.0,96.0,166.0
+9696.0,female,81.0,married,,3.98,2.0,141.0,70.0,162.0
+9701.0,female,14.0,never married,Less Than High School,,5.0,146.0,50.0,124.0
+9714.0,female,44.0,divorced,,1.07,2.0,172.0,66.0,116.0
+9719.0,male,67.0,married,,,7.0,142.0,84.0,134.0
+9724.0,female,9.0,,High School Diploma,1.31,3.0,202.0,66.0,106.0
+9730.0,female,80.0,widowed,,5.0,5.0,247.0,64.0,140.0
+9735.0,male,65.0,married,,5.0,2.0,207.0,78.0,138.0
+9741.0,female,57.0,married,,5.0,2.0,214.0,64.0,104.0
+9745.0,male,30.0,married,,2.52,4.0,235.0,62.0,122.0
+9749.0,male,71.0,widowed,,0.6,7.0,150.0,102.0,176.0
+9753.0,female,26.0,separated,,2.67,5.0,,48.0,120.0
+9758.0,male,13.0,,Less Than High School,0.54,5.0,153.0,32.0,92.0
+9767.0,female,47.0,married,,4.44,2.0,240.0,86.0,110.0
+9776.0,female,15.0,never married,Less Than High School,2.64,4.0,173.0,58.0,118.0
+9781.0,female,18.0,never married,Less Than High School,3.76,5.0,161.0,76.0,120.0
+9796.0,female,55.0,separated,,0.66,1.0,285.0,76.0,144.0
+9804.0,male,27.0,never married,,2.26,2.0,218.0,80.0,128.0
+9809.0,male,80.0,widowed,,1.38,3.0,244.0,62.0,106.0
+9814.0,female,34.0,married,,2.16,3.0,125.0,70.0,102.0
+9818.0,female,85.0,widowed,,5.0,3.0,211.0,70.0,124.0
+9822.0,male,71.0,married,,5.0,2.0,136.0,50.0,102.0
+9827.0,male,13.0,,Less Than High School,0.53,4.0,164.0,70.0,96.0
+9831.0,female,9.0,,Less Than High School,1.68,4.0,194.0,50.0,90.0
+9835.0,female,15.0,never married,Less Than High School,0.36,4.0,145.0,62.0,124.0
+9839.0,female,12.0,,Less Than High School,0.23,7.0,185.0,54.0,116.0
+9847.0,male,17.0,never married,Less Than High School,3.51,5.0,148.0,70.0,100.0
+9852.0,female,47.0,,,1.13,7.0,180.0,78.0,120.0
+9856.0,female,8.0,,Less Than High School,0.62,7.0,136.0,68.0,98.0
+9860.0,male,52.0,married,,5.0,3.0,229.0,74.0,116.0
+9864.0,female,16.0,never married,Less Than High School,0.99,2.0,158.0,60.0,92.0
+9875.0,male,15.0,never married,Less Than High School,,5.0,179.0,36.0,128.0
+9879.0,male,81.0,married,,1.41,3.0,173.0,10.0,126.0
+9883.0,male,62.0,married,,1.77,3.0,288.0,68.0,114.0
+9888.0,male,25.0,never married,,5.0,2.0,,70.0,96.0
+9893.0,female,30.0,never married,,0.64,2.0,143.0,72.0,100.0
+9897.0,male,14.0,never married,Less Than High School,0.78,4.0,,64.0,90.0
+9913.0,female,17.0,never married,Less Than High School,0.84,5.0,129.0,58.0,108.0
+9922.0,male,32.0,,,0.88,6.0,160.0,70.0,120.0
+9933.0,female,9.0,,Less Than High School,2.63,6.0,127.0,54.0,106.0
+9937.0,female,51.0,married,,1.14,7.0,155.0,72.0,120.0
+9941.0,female,15.0,never married,More Than High School,3.33,5.0,161.0,68.0,122.0
+9946.0,male,22.0,never married,,1.3,3.0,144.0,66.0,114.0
+9951.0,male,15.0,never married,Less Than High School,0.92,6.0,160.0,66.0,130.0
+9961.0,male,36.0,married,,2.11,4.0,211.0,80.0,130.0
